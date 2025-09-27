@@ -1,6 +1,6 @@
 {\rtf1\adeflang1025\ansi\ansicpg1252\uc1\adeff0\deff0\stshfdbch31505\stshfloch31506\stshfhich31506\stshfbi0\deflang1033\deflangfe1033\themelang1033\themelangfe0\themelangcs0{\fonttbl{\f0\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f2\fbidi \fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}
 {\f3\fbidi \froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}{\f10\fbidi \fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Wingdings;}{\f34\fbidi \froman\fcharset0\fprq2{\*\panose 02040503050406030204}Cambria Math;}
-{\f42\fbidi \fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Segoe UI Emoji;}{\f43\fbidi \fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Arial Black;}{\f44\fbidi \fnil\fcharset0\fprq2 Poppins{\*\falt Poppins};}
+{\f42\fbidi \fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Segoe UI Emoji;}{\f43\fbidi \fswiss\fcharset0\fprq2{\*\panose 020b0a04020102020204}Arial Black;}{\f44\fbidi \fnil\fcharset0\fprq2 Poppins{\*\falt Poppins};}
 {\flomajor\f31500\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\fdbmajor\f31501\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
 {\fhimajor\f31502\fbidi \fswiss\fcharset0\fprq2{\*\panose 020f0302020204030204}Calibri Light;}{\fbimajor\f31503\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
 {\flominor\f31504\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\fdbminor\f31505\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
@@ -145,7 +145,7 @@ Normal Table;}{\*\cs15 \additive \rtlch\fcs1 \ab\af0\afs32 \ltrch\fcs0 \b\fs32\k
 \levelindent0{\leveltext\'02\'05.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
 \'02\'06.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'02\'07.;}{\levelnumbers
 \'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'02\'08.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 
-\ltrch\fcs0 \fi-360\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid1238785158}{\list\listtemplateid-573029840{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\ltrch\fcs0 \fi-360\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid1238785158}{\list\listtemplateid631378508{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
 \'01\u-3913 ?;}{\levelnumbers;}\f3\fs20\fbias0 \fi-360\li720\jclisttab\tx720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f2\fs20\fbias0 
 \fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li2160
 \jclisttab\tx2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li2880\jclisttab\tx2880\lin2880 }
@@ -153,23 +153,7 @@ Normal Table;}{\*\cs15 \additive \rtlch\fcs1 \ab\af0\afs32 \ltrch\fcs0 \b\fs32\k
 \leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
 \levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative
 \levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
-\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid1365013107}{\list\listtemplateid631378508{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0
-{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fs20\fbias0 \fi-360\li720\jclisttab\tx720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01o;}{\levelnumbers;}
-\f2\fs20\fbias0 \fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li2160
-\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li2880\jclisttab\tx2880\lin2880 }
-{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23
-\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
-\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative
-\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
-\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid1390568688}{\list\listtemplateid-44910872{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0
-{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fs20\fbias0 \fi-360\li720\jclisttab\tx720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f2\fs20\fbias0 
-\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li2160
-\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li2880\jclisttab\tx2880\lin2880 }
-{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23
-\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
-\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative
-\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
-\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid1444885280}{\list\listtemplateid-498185618{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid1390568688}{\list\listtemplateid-498185618{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
 \levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fs20\fbias0 \fi-360\li720\jclisttab\tx720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
 \'01o;}{\levelnumbers;}\f2\fs20\fbias0 \fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}
 \f10\fs20\fbias0 \fi-360\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li2880
@@ -201,61 +185,51 @@ Normal Table;}{\*\cs15 \additive \rtlch\fcs1 \ab\af0\afs32 \ltrch\fcs0 \b\fs32\k
 {\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23
 \leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
 \levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative
-\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid1682047982}{\list\listtemplateid1136312358\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
-\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative
-\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext
-\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid67698689
-\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 
-\fi-360\li3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li4320\lin4320 }
-{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23
-\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
-\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6480\lin6480 }{\listname ;}\listid1768840198}{\list\listtemplateid150651288{\listlevel\levelnfc23\levelnfcn23
-\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fs20\fbias0 \fi-360\li720\jclisttab\tx720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
-\lvltentative\levelspace0\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f2\fs20\fbias0 \fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0
-{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
-\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}
-\f10\fs20\fbias0 \fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li4320
-\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li5040\jclisttab\tx5040\lin5040 }
-{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23
-\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid1815484530}{\list\listtemplateid686817536
-{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fs20\fbias0 \fi-360\li720\jclisttab\tx720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
-\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f2\fs20\fbias0 \fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative
-\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
-\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}
-\f10\fs20\fbias0 \fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li4320
-\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li5040\jclisttab\tx5040\lin5040 }
-{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23
-\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid1861428509}{\list\listtemplateid438195630
-{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fs20\fbias0 \fi-360\li720\jclisttab\tx720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
-\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f2\fs20\fbias0 \fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative
-\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
-\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}
-\f10\fs20\fbias0 \fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li4320
-\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li5040\jclisttab\tx5040\lin5040 }
-{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23
-\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid2027124377}}{\*\listoverridetable
-{\listoverride\listid1020014175\listoverridecount0\ls1}{\listoverride\listid264385022\listoverridecount0\ls2}{\listoverride\listid100345742\listoverridecount0\ls3}{\listoverride\listid602080244\listoverridecount0\ls4}{\listoverride\listid1390568688
-\listoverridecount0\ls5}{\listoverride\listid532378533\listoverridecount0\ls6}{\listoverride\listid2027124377\listoverridecount0\ls7}{\listoverride\listid1861428509\listoverridecount0\ls8}{\listoverride\listid1238785158\listoverridecount0\ls9}
-{\listoverride\listid57020778\listoverridecount0\ls10}{\listoverride\listid265232418\listoverridecount0\ls11}{\listoverride\listid598222169\listoverridecount0\ls12}{\listoverride\listid1107971097\listoverridecount0\ls13}{\listoverride\listid1815484530
-\listoverridecount0\ls14}{\listoverride\listid1467895225\listoverridecount0\ls15}{\listoverride\listid668560491\listoverridecount0\ls16}{\listoverride\listid1682047982\listoverridecount0\ls17}{\listoverride\listid1611278416\listoverridecount0\ls18}
-{\listoverride\listid1578829222\listoverridecount0\ls19}{\listoverride\listid384529226\listoverridecount0\ls20}{\listoverride\listid1768840198\listoverridecount0\ls21}{\listoverride\listid1444885280\listoverridecount0\ls22}{\listoverride\listid1365013107
-\listoverridecount0\ls23}}{\*\pgptbl {\pgp\ipgp4\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp2\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp11\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp8\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp15
-\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp14\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp13\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp7\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp14\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp9\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0
-\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp16\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp38\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp28\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp31\itap0\li0\ri0\sb0\sa0}
-{\pgp\ipgp24\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp24\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp82\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp82\itap0\li720\ri720\sb100\sa100}{\pgp\ipgp40\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp26\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp26\itap0\li0\ri0\sb0\sa0}
-{\pgp\ipgp40\itap0\li720\ri720\sb100\sa100}{\pgp\ipgp31\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp32\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp19\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp32\itap0\li720\ri720\sb100\sa100}{\pgp\ipgp26\itap0\li0\ri0\sb0
-\sa0}{\pgp\ipgp20\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp39\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp31\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp81\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp
-\ipgp66\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp76\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp52\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp58\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp56\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp54\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp45
-\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp57\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp41\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp80\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp42\itap0\li720\ri720\sb100\sa100}{\pgp\ipgp48\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp54
-\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp49\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp63\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp50\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp42\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp57\itap0\li0
-\ri0\sb0\sa0}{\pgp\ipgp46\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp62\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp56\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp49\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp66\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp52\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp52\itap0\li0\ri0\sb0
-\sa0}{\pgp\ipgp56\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp49\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp72\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp69\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp66\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp74\itap0\li0\ri0\sb0\sa0}{\pgp
-\ipgp57\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp64\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp24\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp87\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp85\itap0
-\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp18\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp91\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp15\itap0\li0\ri0\sb0\sa0}}{\*\rsidtbl \rsid1778660\rsid1966296\rsid1970808\rsid3477822
-\rsid4156150\rsid4600134\rsid4929173\rsid5860502\rsid6957143\rsid7886665\rsid10031258\rsid10246410\rsid10310209\rsid10899529\rsid11363712\rsid12471496\rsid13780585\rsid15563747\rsid16197776\rsid16206614\rsid16343151}{\mmathPr\mmathFont34\mbrkBin0
-\mbrkBinSub0\msmallFrac0\mdispDef1\mlMargin0\mrMargin0\mdefJc1\mwrapIndent1440\mintLim0\mnaryLim1}{\info{\operator Administrator}{\creatim\yr2025\mo8\dy11\hr15\min1}{\revtim\yr2025\mo9\dy27\hr21\min46}{\version12}{\edmins6428}{\nofpages12}{\nofwords1842}
-{\nofchars10062}{\nofcharsws11614}{\vern31}}{\*\userprops {\propname GrammarlyDocumentId}\proptype30{\staticval a775f34c-0e6d-4416-b714-9524c9f7a84c}}{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/word/2003/wordml}}
-\paperw12240\paperh15840\margl1440\margr1440\margt1440\margb1440\gutter0\ltrsect 
+\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid1682047982}{\list\listtemplateid150651288{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fs20\fbias0 \fi-360\li720\jclisttab\tx720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0
+{\leveltext\'01o;}{\levelnumbers;}\f2\fs20\fbias0 \fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}
+\f10\fs20\fbias0 \fi-360\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li2880
+\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li3600\jclisttab\tx3600\lin3600 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative
+\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid1815484530}{\list\listtemplateid686817536{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fs20\fbias0 \fi-360\li720\jclisttab\tx720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0
+{\leveltext\'01o;}{\levelnumbers;}\f2\fs20\fbias0 \fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}
+\f10\fs20\fbias0 \fi-360\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li2880
+\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li3600\jclisttab\tx3600\lin3600 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative
+\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid1861428509}{\list\listtemplateid438195630{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fs20\fbias0 \fi-360\li720\jclisttab\tx720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0
+{\leveltext\'01o;}{\levelnumbers;}\f2\fs20\fbias0 \fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}
+\f10\fs20\fbias0 \fi-360\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li2880
+\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li3600\jclisttab\tx3600\lin3600 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative
+\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid2027124377}}{\*\listoverridetable{\listoverride\listid1020014175\listoverridecount0\ls1}
+{\listoverride\listid264385022\listoverridecount0\ls2}{\listoverride\listid100345742\listoverridecount0\ls3}{\listoverride\listid602080244\listoverridecount0\ls4}{\listoverride\listid1390568688\listoverridecount0\ls5}{\listoverride\listid532378533
+\listoverridecount0\ls6}{\listoverride\listid2027124377\listoverridecount0\ls7}{\listoverride\listid1861428509\listoverridecount0\ls8}{\listoverride\listid1238785158\listoverridecount0\ls9}{\listoverride\listid57020778\listoverridecount0\ls10}
+{\listoverride\listid265232418\listoverridecount0\ls11}{\listoverride\listid598222169\listoverridecount0\ls12}{\listoverride\listid1107971097\listoverridecount0\ls13}{\listoverride\listid1815484530\listoverridecount0\ls14}{\listoverride\listid1467895225
+\listoverridecount0\ls15}{\listoverride\listid668560491\listoverridecount0\ls16}{\listoverride\listid1682047982\listoverridecount0\ls17}{\listoverride\listid1611278416\listoverridecount0\ls18}{\listoverride\listid1578829222\listoverridecount0\ls19}
+{\listoverride\listid384529226\listoverridecount0\ls20}}{\*\pgptbl {\pgp\ipgp7\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp4\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp11\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp10\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp9\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp3
+\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp10\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp5\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0
+\sb0\sa0}{\pgp\ipgp12\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp34\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp24\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp27\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp20\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp20\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp78\itap0\li0\ri0\sb0\sa0}
+{\pgp\ipgp78\itap0\li720\ri720\sb100\sa100}{\pgp\ipgp36\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp22\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp22\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp36\itap0\li720\ri720\sb100\sa100}{\pgp\ipgp27\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp28\itap0\li0\ri0
+\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp15\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp28\itap0\li720\ri720\sb100\sa100}{\pgp\ipgp22\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp16\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp35\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp27\itap0\li0\ri0
+\sb0\sa0}{\pgp\ipgp77\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp62\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp72\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp48\itap0\li0\ri0\sb0\sa0}
+{\pgp\ipgp54\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp52\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp50\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp41\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp53\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp37\itap0\li0\ri0\sb0\sa0}{\pgp
+\ipgp76\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp38\itap0\li720\ri720\sb100\sa100}{\pgp\ipgp44\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp50\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp45\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp59\itap0\li0\ri0\sb0\sa0}{\pgp
+\ipgp46\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp38\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp53\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp42\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp58\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp52
+\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp45\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp62\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp48\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp48\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp52\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp45\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp68\itap0\li0
+\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp65\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp62\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp70\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp53\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp60\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp20\itap0\li0\ri0\sb0
+\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp83\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp81\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp
+\ipgp14\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp87\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp11\itap0\li0\ri0\sb0\sa0}}{\*\rsidtbl \rsid1778660\rsid1966296\rsid1970808\rsid3477822\rsid4156150\rsid4600134\rsid4929173\rsid5860502\rsid6957143\rsid7886665\rsid10031258
+\rsid10246410\rsid10899529\rsid12471496\rsid13780585\rsid15563747\rsid16197776\rsid16206614}{\mmathPr\mmathFont34\mbrkBin0\mbrkBinSub0\msmallFrac0\mdispDef1\mlMargin0\mrMargin0\mdefJc1\mwrapIndent1440\mintLim0\mnaryLim1}{\info{\operator Administrator}
+{\creatim\yr2025\mo8\dy11\hr15\min1}{\revtim\yr2025\mo9\dy24\hr11\min7}{\version11}{\edmins6221}{\nofpages11}{\nofwords1573}{\nofchars8968}{\nofcharsws10520}{\vern31}}{\*\userprops {\propname GrammarlyDocumentId}\proptype30{\staticval a775f34c-0e6d-4416-b
+714-9524c9f7a84c}}{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/word/2003/wordml}}\paperw12240\paperh15840\margl1440\margr1440\margt1440\margb1440\gutter0\ltrsect 
 \widowctrl\ftnbj\aenddoc\trackmoves0\trackformatting1\donotembedsysfont0\relyonvml0\donotembedlingdata1\grfdocevents0\validatexml0\showplaceholdtext0\ignoremixedcontent0\saveinvalidxml0\showxmlerrors0\horzdoc\dghspace120\dgvspace120\dghorigin1701
 \dgvorigin1984\dghshow0\dgvshow3\jcompress\viewkind1\viewscale100\rsidroot1970808 \fet0{\*\wgrffmtfilter 2450}\ilfomacatclnup0\ltrpar \sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2
 \pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6
@@ -273,16 +247,19 @@ t be targeted by normal selectors alone.
 \par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1970808 {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid1970808\charrsid1970808 
 {\pict{\*\picprop\shplid1025{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}
 {\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex936\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0
-\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag-1347710012\blipupi96{\*\blipuid afab93c4eddfa0ce7ff81aca8b88c4ae}0100090000033401000007001c00000000000400000003010800050000000b0200000000050000000c0203007102040000002e0118001c000000fb0210000000
+\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag248223972\blipupi96{\*\blipuid 0ecb98e4ba342b8a49d85ae17bde56a2}010009000003a801000008001c00000000000400000003010800050000000b0200000000050000000c0203007102040000002e0118001c000000fb0210000000
 00000000bc02000000000102022253797374656d0000000000000000000000000000000000000000000000000000040000002d0100001c000000fb0210000700
-00000000bc02000000000102022253797374656d00ed92020000f0bc7311f87f00008c4e0e27e500000020000000040000002d01010004000000f00100001c00
-0000fb021000000000000000bc02000000000102022253797374656d0000000000000000000000000000000000000000000000000000040000002d0100000400
-00002d01010004000000f00100001c000000fb02f1ff0000000000009001000000000440002243616c6962726900000000000000000000000000000000000000
-000000000000040000002d010000040000002d010000040000002d0100000400000002010100050000000902000000020d000000320a0e000000010004000000
-0000700202002000090005000000090200000002030000001e0007000000fc020000a0a0a0000000040000002d01020008000000fa02050000000000ffffff00
-040000002d0103000e00000024030500ffffffffffff0200700202007002ffffffffffff08000000fa0200000000000000000000040000002d01040007000000
-fc020000ffffff000000040000002d010500040000002701ffff1c000000fb021000070000000000bc020000000001020222417269616c000000000000000000000000000000000000000000000000000000040000002d010600040000002d010600030000000000}}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 
-\f44\fs24\insrsid1970808\charrsid1970808 
+00000000bc02000000000102022253797374656d00494c020000f0bc1cfafe7f00008c508ed46400000020000000040000002d01010004000000f00100001c00
+0000fb021000070000000000bc02000000000102022253797374656d00494c020000196020fafe7f00009c3500000a960a0018ecf845040000002d0100000400
+00002d0100001c000000fb021000000000000000bc02000000000102022253797374656d00000000000000000000000000000000000000000000000000000400
+00002d010200040000002d01000004000000f00102001c000000fb021000000000000000bc02000000000102022253797374656d000000000000000000000000
+0000000000000000000000000000040000002d010200040000002d01000004000000f00102001c000000fb021000000000000000bc0200000000010202225379
+7374656d0000000000000000000000000000000000000000000000000000040000002d010200040000002d01000004000000f001020004000000020101001c00
+0000fb02f1ff0000000000009001000000000440002243616c6962726900000000000000000000000000000000000000000000000000040000002d0102000400
+00002d010200040000002d010200050000000902000000020d000000320a0e000000010004000000000070020200200009000500000009020000000203000000
+1e0007000000fc020000a0a0a0000000040000002d01030008000000fa02050000000000ffffff00040000002d0104000e00000024030500ffffffffffff0200
+700202007002ffffffffffff08000000fa0200000000000000000000040000002d01050007000000fc020000ffffff000000040000002d010600040000002701
+ffff1c000000fb021000070000000000bc020000000001020222417269616c000000000000000000000000000000000000000000000000000000040000002d010700040000002d010700030000000000}}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid1970808\charrsid1970808 
 \par }\sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4
 \pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}
 {\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar
@@ -352,10 +329,10 @@ input:checked \{ background: yellow; \}}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f4
 \ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1970808 {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid1970808\charrsid1970808 
 {\pict{\*\picprop\shplid1026{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}
 {\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex936\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0
-\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag-857186502\blipupi96{\*\blipuid cce85f3ac0b2e065031d26f7279cd31e}010009000003a801000008001c00000000000400000003010800050000000b0200000000050000000c0203007102040000002e0118001c000000fb0210000000
+\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag-587287801\blipupi96{\*\blipuid dcfeb307a09e2d7aba84ad74b416a426}010009000003a801000008001c00000000000400000003010800050000000b0200000000050000000c0203007102040000002e0118001c000000fb0210000000
 00000000bc02000000000102022253797374656d0000000000000000000000000000000000000000000000000000040000002d0100001c000000fb0210000700
-00000000bc02000000000102022253797374656d00f392020000f0bc7311f87f00008c4e0e27e500000020000000040000002d01010004000000f00100001c00
-0000fb021000070000000000bc02000000000102022253797374656d00f39202000019607711f87f0000642400000a150a00885f98f2040000002d0100000400
+00000000bc02000000000102022253797374656d00374c020000f0bc1cfafe7f00008c508ed46400000020000000040000002d01010004000000f00100001c00
+0000fb021000070000000000bc02000000000102022253797374656d00374c020000196020fafe7f00009c3500000a490a0018ecf845040000002d0100000400
 00002d0100001c000000fb021000000000000000bc02000000000102022253797374656d00000000000000000000000000000000000000000000000000000400
 00002d010200040000002d01000004000000f00102001c000000fb021000000000000000bc02000000000102022253797374656d000000000000000000000000
 0000000000000000000000000000040000002d010200040000002d01000004000000f00102001c000000fb021000000000000000bc0200000000010202225379
@@ -402,10 +379,10 @@ selector:pseudo-class \{ styles \}}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs2
 \par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1970808 {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid1970808\charrsid1970808 
 {\pict{\*\picprop\shplid1027{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}
 {\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex864\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0
-\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag1544996113\blipupi96{\*\blipuid 5c16c511baf5b68179ce7c5627b9b5dd}010009000003a801000008001c00000000000400000003010800050000000b0200000000050000000c0203004102040000002e0118001c000000fb0210000000
+\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag-685665781\blipupi96{\*\blipuid d721920bfa92b50d67e6c4edf658ccce}010009000003a801000008001c00000000000400000003010800050000000b0200000000050000000c0203004102040000002e0118001c000000fb0210000000
 00000000bc02000000000102022253797374656d0000000000000000000000000000000000000000000000000000040000002d0100001c000000fb0210000700
-00000000bc02000000000102022253797374656d00f192020000f0bc7311f87f00008c4e0e27e500000020000000040000002d01010004000000f00100001c00
-0000fb021000070000000000bc02000000000102022253797374656d00f19202000019607711f87f0000642400000a030a00885f98f2040000002d0100000400
+00000000bc02000000000102022253797374656d00494c020000f0bc1cfafe7f00008c508ed46400000020000000040000002d01010004000000f00100001c00
+0000fb021000070000000000bc02000000000102022253797374656d00494c020000196020fafe7f00009c3500000a4d0a0018ecf845040000002d0100000400
 00002d0100001c000000fb021000000000000000bc02000000000102022253797374656d00000000000000000000000000000000000000000000000000000400
 00002d010200040000002d01000004000000f00102001c000000fb021000000000000000bc02000000000102022253797374656d000000000000000000000000
 0000000000000000000000000000040000002d010200040000002d01000004000000f00102001c000000fb021000000000000000bc0200000000010202225379
@@ -445,10 +422,10 @@ ffff1c000000fb021000070000000000bc020000000001020222417269616c000000000000000000
 \par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1970808 {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid1970808\charrsid1970808 
 {\pict{\*\picprop\shplid1028{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}
 {\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex864\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0
-\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag-6036918\blipupi96{\*\blipuid ffa3e24a89e9d0165af4be5043b133fb}010009000003a801000008001c00000000000400000003010800050000000b0200000000050000000c0203004102040000002e0118001c000000fb0210000000
+\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag2108513512\blipupi96{\*\blipuid 7dad5ce89a62314ad713fe2c4fb2286c}010009000003a801000008001c00000000000400000003010800050000000b0200000000050000000c0203004102040000002e0118001c000000fb0210000000
 00000000bc02000000000102022253797374656d0000000000000000000000000000000000000000000000000000040000002d0100001c000000fb0210000700
-00000000bc02000000000102022253797374656d00ed92020000f0bc7311f87f00008c4e0e27e500000020000000040000002d01010004000000f00100001c00
-0000fb021000070000000000bc02000000000102022253797374656d00ed9202000019607711f87f0000642400000a080a00885f98f2040000002d0100000400
+00000000bc02000000000102022253797374656d00374c020000f0bc1cfafe7f00008c508ed46400000020000000040000002d01010004000000f00100001c00
+0000fb021000070000000000bc02000000000102022253797374656d00374c020000196020fafe7f00009c3500000a5b0a0018ecf845040000002d0100000400
 00002d0100001c000000fb021000000000000000bc02000000000102022253797374656d00000000000000000000000000000000000000000000000000000400
 00002d010200040000002d01000004000000f00102001c000000fb021000000000000000bc02000000000102022253797374656d000000000000000000000000
 0000000000000000000000000000040000002d010200040000002d01000004000000f00102001c000000fb021000000000000000bc0200000000010202225379
@@ -482,10 +459,10 @@ ffff1c000000fb021000070000000000bc020000000001020222417269616c000000000000000000
 \par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1970808 {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid1970808\charrsid1970808 
 {\pict{\*\picprop\shplid1029{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}
 {\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex864\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0
-\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag665118712\blipupi96{\*\blipuid 27a4e7f8bb970ed3ac15ea3bcb6765c1}010009000003a801000008001c00000000000400000003010800050000000b0200000000050000000c0203004102040000002e0118001c000000fb0210000000
+\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag-1506575907\blipupi96{\*\blipuid a63379dd4083cbe0b4ae806544a6c19a}010009000003a801000008001c00000000000400000003010800050000000b0200000000050000000c0203004102040000002e0118001c000000fb0210000000
 00000000bc02000000000102022253797374656d0000000000000000000000000000000000000000000000000000040000002d0100001c000000fb0210000700
-00000000bc02000000000102022253797374656d00f192020000f0bc7311f87f00008c4e0e27e500000020000000040000002d01010004000000f00100001c00
-0000fb021000070000000000bc02000000000102022253797374656d00f19202000019607711f87f0000642400000ab10a00885f98f2040000002d0100000400
+00000000bc02000000000102022253797374656d00494c020000f0bc1cfafe7f00008c508ed46400000020000000040000002d01010004000000f00100001c00
+0000fb021000070000000000bc02000000000102022253797374656d00494c020000196020fafe7f00009c3500000a5f0a0018ecf845040000002d0100000400
 00002d0100001c000000fb021000000000000000bc02000000000102022253797374656d00000000000000000000000000000000000000000000000000000400
 00002d010200040000002d01000004000000f00102001c000000fb021000000000000000bc02000000000102022253797374656d000000000000000000000000
 0000000000000000000000000000040000002d010200040000002d01000004000000f00102001c000000fb021000000000000000bc0200000000010202225379
@@ -516,10 +493,10 @@ ffff1c000000fb021000070000000000bc020000000001020222417269616c000000000000000000
 \par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1970808 {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid1970808\charrsid1970808 
 {\pict{\*\picprop\shplid1030{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}
 {\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex864\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0
-\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag765392049\blipupi96{\*\blipuid 2d9ef4b1e2f4fefe442fb3071afb8949}010009000003a801000008001c00000000000400000003010800050000000b0200000000050000000c0203004102040000002e0118001c000000fb0210000000
+\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag1682158956\blipupi96{\*\blipuid 6443b56ce2446846f803ce6ee3156f8b}010009000003a801000008001c00000000000400000003010800050000000b0200000000050000000c0203004102040000002e0118001c000000fb0210000000
 00000000bc02000000000102022253797374656d0000000000000000000000000000000000000000000000000000040000002d0100001c000000fb0210000700
-00000000bc02000000000102022253797374656d00ed92020000f0bc7311f87f00008c4e0e27e500000020000000040000002d01010004000000f00100001c00
-0000fb021000070000000000bc02000000000102022253797374656d00ed9202000019607711f87f0000642400000a290a00885f98f2040000002d0100000400
+00000000bc02000000000102022253797374656d00374c020000f0bc1cfafe7f00008c508ed46400000020000000040000002d01010004000000f00100001c00
+0000fb021000070000000000bc02000000000102022253797374656d00374c020000196020fafe7f00009c3500000af80a0018ecf845040000002d0100000400
 00002d0100001c000000fb021000000000000000bc02000000000102022253797374656d00000000000000000000000000000000000000000000000000000400
 00002d010200040000002d01000004000000f00102001c000000fb021000000000000000bc02000000000102022253797374656d000000000000000000000000
 0000000000000000000000000000040000002d010200040000002d01000004000000f00102001c000000fb021000000000000000bc0200000000010202225379
@@ -551,10 +528,10 @@ ffff1c000000fb021000070000000000bc020000000001020222417269616c000000000000000000
 \par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1970808 {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid1970808\charrsid1970808 
 {\pict{\*\picprop\shplid1031{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}
 {\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex864\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0
-\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag-1465847119\blipupi96{\*\blipuid a8a0f2b1904dd733a60fcb41096dfd7d}010009000003a801000008001c00000000000400000003010800050000000b0200000000050000000c0203004102040000002e0118001c000000fb0210000000
+\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag643286590\blipupi96{\*\blipuid 2657c63e321956a18a49bdf54b8bc616}010009000003a801000008001c00000000000400000003010800050000000b0200000000050000000c0203004102040000002e0118001c000000fb0210000000
 00000000bc02000000000102022253797374656d0000000000000000000000000000000000000000000000000000040000002d0100001c000000fb0210000700
-00000000bc02000000000102022253797374656d00f192020000f0bc7311f87f00008c4e0e27e500000020000000040000002d01010004000000f00100001c00
-0000fb021000070000000000bc02000000000102022253797374656d00f19202000019607711f87f0000642400000a5b0a00885f98f2040000002d0100000400
+00000000bc02000000000102022253797374656d00494c020000f0bc1cfafe7f00008c508ed46400000020000000040000002d01010004000000f00100001c00
+0000fb021000070000000000bc02000000000102022253797374656d00494c020000196020fafe7f00009c3500000a760a0018ecf845040000002d0100000400
 00002d0100001c000000fb021000000000000000bc02000000000102022253797374656d00000000000000000000000000000000000000000000000000000400
 00002d010200040000002d01000004000000f00102001c000000fb021000000000000000bc02000000000102022253797374656d000000000000000000000000
 0000000000000000000000000000040000002d010200040000002d01000004000000f00102001c000000fb021000000000000000bc0200000000010202225379
@@ -582,10 +559,10 @@ ffff1c000000fb021000070000000000bc020000000001020222417269616c000000000000000000
 \par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1970808 {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid1970808\charrsid1970808 
 {\pict{\*\picprop\shplid1032{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}
 {\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex936\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0
-\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag-235386672\blipupi96{\*\blipuid f1f848d0435c53fb8a774e32eb56b239}010009000003a801000008001c00000000000400000003010800050000000b0200000000050000000c0203007102040000002e0118001c000000fb0210000000
+\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag-2085843109\blipupi96{\*\blipuid 83ac8f5b4124f9033973e153c9b4e4b1}010009000003a801000008001c00000000000400000003010800050000000b0200000000050000000c0203007102040000002e0118001c000000fb0210000000
 00000000bc02000000000102022253797374656d0000000000000000000000000000000000000000000000000000040000002d0100001c000000fb0210000700
-00000000bc02000000000102022253797374656d00ed92020000f0bc7311f87f00008c4e0e27e500000020000000040000002d01010004000000f00100001c00
-0000fb021000070000000000bc02000000000102022253797374656d00ed9202000019607711f87f0000642400000add0a00885f98f2040000002d0100000400
+00000000bc02000000000102022253797374656d00374c020000f0bc1cfafe7f00008c508ed46400000020000000040000002d01010004000000f00100001c00
+0000fb021000070000000000bc02000000000102022253797374656d00374c020000196020fafe7f00009c3500000abb0a0018ecf845040000002d0100000400
 00002d0100001c000000fb021000000000000000bc02000000000102022253797374656d00000000000000000000000000000000000000000000000000000400
 00002d010200040000002d01000004000000f00102001c000000fb021000000000000000bc02000000000102022253797374656d000000000000000000000000
 0000000000000000000000000000040000002d010200040000002d01000004000000f00102001c000000fb021000000000000000bc0200000000010202225379
@@ -619,10 +596,10 @@ Here:
 \par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1970808 {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid1970808\charrsid1970808 
 {\pict{\*\picprop\shplid1033{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}
 {\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex864\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0
-\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag1056738157\blipupi96{\*\blipuid 3efc8b6d2081b9c64c5b0cd4dfa3f7b4}010009000003a801000008001c00000000000400000003010800050000000b0200000000050000000c0203004102040000002e0118001c000000fb0210000000
+\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag-1873185363\blipupi96{\*\blipuid 905975ad60fcbe5b137b36c261c6baea}010009000003a801000008001c00000000000400000003010800050000000b0200000000050000000c0203004102040000002e0118001c000000fb0210000000
 00000000bc02000000000102022253797374656d0000000000000000000000000000000000000000000000000000040000002d0100001c000000fb0210000700
-00000000bc02000000000102022253797374656d00f192020000f0bc7311f87f00008c4e0e27e500000020000000040000002d01010004000000f00100001c00
-0000fb021000070000000000bc02000000000102022253797374656d00f19202000019607711f87f0000642400000a840a00885f98f2040000002d0100000400
+00000000bc02000000000102022253797374656d00494c020000f0bc1cfafe7f00008c508ed46400000020000000040000002d01010004000000f00100001c00
+0000fb021000070000000000bc02000000000102022253797374656d00494c020000196020fafe7f00009c3500000aa20a0018ecf845040000002d0100000400
 00002d0100001c000000fb021000000000000000bc02000000000102022253797374656d00000000000000000000000000000000000000000000000000000400
 00002d010200040000002d01000004000000f00102001c000000fb021000000000000000bc02000000000102022253797374656d000000000000000000000000
 0000000000000000000000000000040000002d010200040000002d01000004000000f00102001c000000fb021000000000000000bc0200000000010202225379
@@ -644,16 +621,16 @@ ffff1c000000fb021000070000000000bc020000000001020222417269616c000000000000000000
 \par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af44 \ltrch\fcs0 \f3\fs20\insrsid1970808\charrsid1970808 \loch\af3\dbch\af31505\hich\f3 \'b7\tab}\hich\af44\dbch\af31505\loch\f44 Makes styles easier to manage when you have exceptions.
 \par }\pard \ltrpar\ql \li0\ri0\sb100\sa100\sbauto1\saauto1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1970808 {\rtlch\fcs1 \ab\af44\afs20 \ltrch\fcs0 \b\f44\fs20\insrsid1970808\charrsid1970808 
 \hich\af44\dbch\af31505\loch\f44 ::after}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid1970808\charrsid1970808 \hich\af44\dbch\af31505\loch\f44  is a }{\rtlch\fcs1 \ab\af44\afs24 \ltrch\fcs0 \b\f44\fs24\insrsid1970808\charrsid1970808 
-\hich\af44\dbch\af31505\loch\f44 CSS pseudo-element}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid1970808\charrsid1970808 \hich\af44\dbch\af31505\loch\f44  \hich\f44 \emdash \hich\af44\dbch\af31505\loch\f44  not a pseudo-class \hich\f44 \emdash 
-\loch\f44  that lets you insert content }{\rtlch\fcs1 \ab\af44\afs24 \ltrch\fcs0 \b\f44\fs24\insrsid1970808\charrsid1970808 \hich\af44\dbch\af31505\loch\f44 after}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid1970808\charrsid1970808 
+\hich\af44\dbch\af31505\loch\f44 CSS pseudo-element}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid1970808\charrsid1970808 \hich\af44\dbch\af31505\loch\f44  \hich\f44 \emdash \loch\f44  not a pseudo-class \hich\f44 \emdash \loch\f44 
+ that lets you insert content }{\rtlch\fcs1 \ab\af44\afs24 \ltrch\fcs0 \b\f44\fs24\insrsid1970808\charrsid1970808 \hich\af44\dbch\af31505\loch\f44 after}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid1970808\charrsid1970808 
 \hich\af44\dbch\af31505\loch\f44  an element\hich\f44 \rquote \loch\f44 s actual content, without adding extra HTML.
 \par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1970808 {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid1970808\charrsid1970808 
 {\pict{\*\picprop\shplid1034{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}
 {\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex936\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0
-\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag-2008177875\blipupi96{\*\blipuid 884da32d7e90dc6f9dbfc86ca3d1cf73}010009000003a801000008001c00000000000400000003010800050000000b0200000000050000000c0203007102040000002e0118001c000000fb0210000000
+\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag215279249\blipupi96{\*\blipuid 0cd4e691cd4da87d0b0edf9bb2dd4d67}010009000003a801000008001c00000000000400000003010800050000000b0200000000050000000c0203007102040000002e0118001c000000fb0210000000
 00000000bc02000000000102022253797374656d0000000000000000000000000000000000000000000000000000040000002d0100001c000000fb0210000700
-00000000bc02000000000102022253797374656d00ed92020000f0bc7311f87f00008c4e0e27e500000020000000040000002d01010004000000f00100001c00
-0000fb021000070000000000bc02000000000102022253797374656d00ed9202000019607711f87f0000642400000aa20a00885f98f2040000002d0100000400
+00000000bc02000000000102022253797374656d00374c020000f0bc1cfafe7f00008c508ed46400000020000000040000002d01010004000000f00100001c00
+0000fb021000070000000000bc02000000000102022253797374656d00374c020000196020fafe7f00009c3500000aaf0a0018ecf845040000002d0100000400
 00002d0100001c000000fb021000000000000000bc02000000000102022253797374656d00000000000000000000000000000000000000000000000000000400
 00002d010200040000002d01000004000000f00102001c000000fb021000000000000000bc02000000000102022253797374656d000000000000000000000000
 0000000000000000000000000000040000002d010200040000002d01000004000000f00102001c000000fb021000000000000000bc0200000000010202225379
@@ -680,10 +657,10 @@ s written with }{\rtlch\fcs1 \ab\af44\afs24 \ltrch\fcs0 \b\f44\fs24\insrsid19708
 \par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1970808 {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid1970808\charrsid1970808 
 {\pict{\*\picprop\shplid1035{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}
 {\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex864\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0
-\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag1781040384\blipupi96{\*\blipuid 6a288500700c1c4e7ccff55fc5534936}010009000003a801000008001c00000000000400000003010800050000000b0200000000050000000c0203004102040000002e0118001c000000fb0210000000
+\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag-1286493732\blipupi96{\*\blipuid b351a9dcca0330067442ac06b32ceb9b}010009000003a801000008001c00000000000400000003010800050000000b0200000000050000000c0203004102040000002e0118001c000000fb0210000000
 00000000bc02000000000102022253797374656d0000000000000000000000000000000000000000000000000000040000002d0100001c000000fb0210000700
-00000000bc02000000000102022253797374656d00f192020000f0bc7311f87f00008c4e0e27e500000020000000040000002d01010004000000f00100001c00
-0000fb021000070000000000bc02000000000102022253797374656d00f19202000019607711f87f0000642400000a940a00885f98f2040000002d0100000400
+00000000bc02000000000102022253797374656d00494c020000f0bc1cfafe7f00008c508ed46400000020000000040000002d01010004000000f00100001c00
+0000fb021000070000000000bc02000000000102022253797374656d00494c020000196020fafe7f00009c3500000a7a0a0018ecf845040000002d0100000400
 00002d0100001c000000fb021000000000000000bc02000000000102022253797374656d00000000000000000000000000000000000000000000000000000400
 00002d010200040000002d01000004000000f00102001c000000fb021000000000000000bc02000000000102022253797374656d000000000000000000000000
 0000000000000000000000000000040000002d010200040000002d01000004000000f00102001c000000fb021000000000000000bc0200000000010202225379
@@ -718,10 +695,10 @@ This will display:
 \par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1970808 {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid1970808\charrsid1970808 
 {\pict{\*\picprop\shplid1036{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}
 {\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex936\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0
-\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag1212489084\blipupi96{\*\blipuid 48451d7c6a9c02edbb97e693e58b1a18}010009000003a801000008001c00000000000400000003010800050000000b0200000000050000000c0203007102040000002e0118001c000000fb0210000000
+\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag-1081459803\blipupi96{\*\blipuid bf8a3ba53e2ce4eb761581ebe35b96ec}010009000003a801000008001c00000000000400000003010800050000000b0200000000050000000c0203007102040000002e0118001c000000fb0210000000
 00000000bc02000000000102022253797374656d0000000000000000000000000000000000000000000000000000040000002d0100001c000000fb0210000700
-00000000bc02000000000102022253797374656d00ed92020000f0bc7311f87f00008c4e0e27e500000020000000040000002d01010004000000f00100001c00
-0000fb021000070000000000bc02000000000102022253797374656d00ed9202000019607711f87f0000642400000af30a00885f98f2040000002d0100000400
+00000000bc02000000000102022253797374656d00374c020000f0bc1cfafe7f00008c508ed46400000020000000040000002d01010004000000f00100001c00
+0000fb021000070000000000bc02000000000102022253797374656d00374c020000196020fafe7f00009c3500000a890a0018ecf845040000002d0100000400
 00002d0100001c000000fb021000000000000000bc02000000000102022253797374656d00000000000000000000000000000000000000000000000000000400
 00002d010200040000002d01000004000000f00102001c000000fb021000000000000000bc02000000000102022253797374656d000000000000000000000000
 0000000000000000000000000000040000002d010200040000002d01000004000000f00102001c000000fb021000000000000000bc0200000000010202225379
@@ -751,22 +728,22 @@ ffff1c000000fb021000070000000000bc020000000001020222417269616c000000000000000000
 \rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid6957143\charrsid6957143 \~}{\field\fldedit{\*\fldinst {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid6957143\charrsid6957143 \hich\af44\dbch\af31505\loch\f44 
  HYPERLINK "https://developer.mozilla.org/en-US/docs/Web/CSS" }{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid16206614\charrsid6957143 {\*\datafield 
 00d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90b7a000000680074007400700073003a002f002f0064006500760065006c006f007000650072002e006d006f007a0069006c006c0061002e006f00720067002f0065006e002d00550053002f0064006f00630073002f00
-5700650062002f004300530053000000795881f43b1d7f48af2c825dc485276300000000a5ab0003ff690000}}}{\fldrslt {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \cs18\f44\fs24\ul\cf19\insrsid6957143\charrsid6957143 \hich\af44\dbch\af31505\loch\f44 CSS}}}\sectd \ltrsect
+5700650062002f004300530053000000795881f43b1d7f48af2c825dc485276300000000a5ab0003ff6900}}}{\fldrslt {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \cs18\f44\fs24\ul\cf19\insrsid6957143\charrsid6957143 \hich\af44\dbch\af31505\loch\f44 CSS}}}\sectd \ltrsect
 \linex0\sectdefaultcl\sftnbj {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid6957143\charrsid6957143 \~\hich\af44\dbch\af31505\loch\f44 
-property adds shadow effects around an element's frame. You can set multiple effects separated by commas. A box shadow is described by X and Y offsets relative to the element, blur and spread radius, and color.}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 
-\f44\fs24\insrsid16197776\charrsid6957143 
+property adds shadow effects around an element's frame. You can set multiple effects separated by commas. A box shadow is described by X and Y offsets \hich\af44\dbch\af31505\loch\f44 relative to the element, blur and spread radius, and color.}{
+\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid16197776\charrsid6957143 
 \par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1778660 {\rtlch\fcs1 \ab\af44\afs24 \ltrch\fcs0 \b\f44\fs24\insrsid1778660\charrsid1778660 \hich\af44\dbch\af31505\loch\f44 
-<i>: The Idiomatic Text ele\hich\af44\dbch\af31505\loch\f44 ment}{\rtlch\fcs1 \ab\af44\afs24 \ltrch\fcs0 \b\f44\fs24\insrsid1778660 \hich\af44\dbch\af31505\loch\f44 : }{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid1778660\charrsid1778660 
-\hich\af44\dbch\af31505\loch\f44 The\~<i>\~}{\field\fldedit{\*\fldinst {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid1778660\charrsid1778660 \hich\af44\dbch\af31505\loch\f44  HYPERLINK "https://developer.mozilla.org/en-US/docs/Web/HTML" }{
-\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid16206614\charrsid1778660 {\*\datafield 
+<i>: The Idiomatic Text element}{\rtlch\fcs1 \ab\af44\afs24 \ltrch\fcs0 \b\f44\fs24\insrsid1778660 \hich\af44\dbch\af31505\loch\f44 : }{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid1778660\charrsid1778660 \hich\af44\dbch\af31505\loch\f44 The\~<i>
+\~}{\field\fldedit{\*\fldinst {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid1778660\charrsid1778660 \hich\af44\dbch\af31505\loch\f44  HYPERLINK "https://developer.mozilla.org/en-US/docs/Web/HTML" }{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 
+\f44\fs24\insrsid16206614\charrsid1778660 {\*\datafield 
 00d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90b7c000000680074007400700073003a002f002f0064006500760065006c006f007000650072002e006d006f007a0069006c006c0061002e006f00720067002f0065006e002d00550053002f0064006f00630073002f00
-5700650062002f00480054004d004c000000795881f43b1d7f48af2c825dc485276300000000a5ab0003006e0000}}}{\fldrslt {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \cs18\f44\fs24\ul\cf19\insrsid1778660\charrsid1778660 \hich\af44\dbch\af31505\loch\f44 HTML}}}\sectd \ltrsect
+5700650062002f00480054004d004c000000795881f43b1d7f48af2c825dc485276300000000a5ab0003006e00}}}{\fldrslt {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \cs18\f44\fs24\ul\cf19\insrsid1778660\charrsid1778660 \hich\af44\dbch\af31505\loch\f44 HTML}}}\sectd \ltrsect
 \linex0\sectdefaultcl\sftnbj {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid1778660\charrsid1778660 \~\hich\af44\dbch\af31505\loch\f44 
-element represents a range of text that is set off from the normal text for some reason, such as idiomatic text, technical ter\hich\af44\dbch\af31505\loch\f44 
-ms, taxonomical designations, among others. Historically, these have been presented using italicized type, which is the original source of the\~<i>\~naming of this element.}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid1778660 
+element represents a range of text that is set off from the normal text for some reason, such as idiomatic text, technical term\hich\af44\dbch\af31505\loch\f44 
+s, taxonomical designations, among others. Historically, these have been presented using italicized type, which is the original source of the\~<i>\~naming of this element.}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid1778660 
 \par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4929173 {\rtlch\fcs1 \ab\af44\afs24 \ltrch\fcs0 \b\f44\fs24\insrsid4929173\charrsid4929173 \hich\af44\dbch\af31505\loch\f44 
 display: inline-block}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid4929173\charrsid4929173 \hich\af44\dbch\af31505\loch\f44 ; makes an element behave }{\rtlch\fcs1 \ab\af44\afs24 \ltrch\fcs0 \b\f44\fs24\insrsid4929173\charrsid4929173 
-\hich\af44\dbch\af31505\loch\f44 like inline text}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid4929173\charrsid4929173 \hich\af44\dbch\af31505\loch\f44  (sits in a line with \hich\af44\dbch\af31505\loch\f44 other elements) }{\rtlch\fcs1 
+\hich\af44\dbch\af31505\loch\f44 like inline text}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid4929173\charrsid4929173 \hich\af44\dbch\af31505\loch\f44  (sits in a line with o\hich\af44\dbch\af31505\loch\f44 ther elements) }{\rtlch\fcs1 
 \ab\af44\afs24 \ltrch\fcs0 \b\f44\fs24\insrsid4929173\charrsid4929173 \hich\af44\dbch\af31505\loch\f44 but}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid4929173\charrsid4929173 \hich\af44\dbch\af31505\loch\f44  still allows you to:
 \par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af44 \ltrch\fcs0 \f3\fs20\insrsid4929173\charrsid4929173 \loch\af3\dbch\af31505\hich\f3 \'b7\tab}}\pard \ltrpar\ql \fi-360\li720\ri0\sa160\sl259\slmult1\widctlpar
 \jclisttab\tx720\wrapdefault\aspalpha\aspnum\faauto\ls10\adjustright\rin0\lin720\itap0\pararsid4929173 {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid4929173\charrsid4929173 \hich\af44\dbch\af31505\loch\f44 Set width and height
@@ -775,10 +752,10 @@ display: inline-block}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid4929
 \par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4929173 {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid4929173\charrsid4929173 
 {\pict{\*\picprop\shplid1037{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}
 {\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex864\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0
-\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag-23202974\blipupi96{\*\blipuid fe9df362f93b3eb1b0f5130259dfe1e9}010009000003a801000008001c00000000000400000003010800050000000b0200000000050000000c0203004102040000002e0118001c000000fb0210000000
+\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag1104431984\blipupi96{\*\blipuid 41d44b707d3181698f4c4e6ae9e13b6b}010009000003a801000008001c00000000000400000003010800050000000b0200000000050000000c0203004102040000002e0118001c000000fb0210000000
 00000000bc02000000000102022253797374656d0000000000000000000000000000000000000000000000000000040000002d0100001c000000fb0210000700
-00000000bc02000000000102022253797374656d00f192020000f0bc7311f87f00008c4e0e27e500000020000000040000002d01010004000000f00100001c00
-0000fb021000070000000000bc02000000000102022253797374656d00f19202000019607711f87f0000642400000a160a00885f98f2040000002d0100000400
+00000000bc02000000000102022253797374656d00494c020000f0bc1cfafe7f00008c508ed46400000020000000040000002d01010004000000f00100001c00
+0000fb021000070000000000bc02000000000102022253797374656d00494c020000196020fafe7f00009c3500000a210a0018ecf845040000002d0100000400
 00002d0100001c000000fb021000000000000000bc02000000000102022253797374656d00000000000000000000000000000000000000000000000000000400
 00002d010200040000002d01000004000000f00102001c000000fb021000000000000000bc02000000000102022253797374656d000000000000000000000000
 0000000000000000000000000000040000002d010200040000002d01000004000000f00102001c000000fb021000000000000000bc0200000000010202225379
@@ -829,10 +806,10 @@ two background layers}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid1620
 \par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16206614 {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid16206614\charrsid16206614 
 {\pict{\*\picprop\shplid1038{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}
 {\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex864\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0
-\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag-155678612\blipupi96{\*\blipuid f6b8886cd58edd78ce721106985a5176}010009000003a801000008001c00000000000400000003010800050000000b0200000000050000000c0203004102040000002e0118001c000000fb0210000000
+\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag1532618119\blipupi96{\*\blipuid 5b59e587ad418fa0c91e79b85da302bc}010009000003a801000008001c00000000000400000003010800050000000b0200000000050000000c0203004102040000002e0118001c000000fb0210000000
 00000000bc02000000000102022253797374656d0000000000000000000000000000000000000000000000000000040000002d0100001c000000fb0210000700
-00000000bc02000000000102022253797374656d00ed92020000f0bc7311f87f00008c4e0e27e500000020000000040000002d01010004000000f00100001c00
-0000fb021000070000000000bc02000000000102022253797374656d00ed9202000019607711f87f0000642400000ac00a00885f98f2040000002d0100000400
+00000000bc02000000000102022253797374656d00374c020000f0bc1cfafe7f00008c508ed46400000020000000040000002d01010004000000f00100001c00
+0000fb021000070000000000bc02000000000102022253797374656d00374c020000196020fafe7f00009c3500000aa40a0018ecf845040000002d0100000400
 00002d0100001c000000fb021000000000000000bc02000000000102022253797374656d00000000000000000000000000000000000000000000000000000400
 00002d010200040000002d01000004000000f00102001c000000fb021000000000000000bc02000000000102022253797374656d000000000000000000000000
 0000000000000000000000000000040000002d010200040000002d01000004000000f00102001c000000fb021000000000000000bc0200000000010202225379
@@ -865,10 +842,10 @@ rgba(0, 0, 0, 0.4) means: black with 40% opacity.
 \par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16206614 {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid16206614\charrsid16206614 
 {\pict{\*\picprop\shplid1039{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}
 {\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex864\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0
-\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag602119155\blipupi96{\*\blipuid 23e39bf35cd4a24a8b8a92923d731bfe}010009000003a801000008001c00000000000400000003010800050000000b0200000000050000000c0203004102040000002e0118001c000000fb0210000000
+\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag-960252252\blipupi96{\*\blipuid c6c3b6a465fae392d4b473614db70a06}010009000003a801000008001c00000000000400000003010800050000000b0200000000050000000c0203004102040000002e0118001c000000fb0210000000
 00000000bc02000000000102022253797374656d0000000000000000000000000000000000000000000000000000040000002d0100001c000000fb0210000700
-00000000bc02000000000102022253797374656d00f192020000f0bc7311f87f00008c4e0e27e500000020000000040000002d01010004000000f00100001c00
-0000fb021000070000000000bc02000000000102022253797374656d00f19202000019607711f87f0000642400000a340a00885f98f2040000002d0100000400
+00000000bc02000000000102022253797374656d00494c020000f0bc1cfafe7f00008c508ed46400000020000000040000002d01010004000000f00100001c00
+0000fb021000070000000000bc02000000000102022253797374656d00494c020000196020fafe7f00009c3500000ae80a0018ecf845040000002d0100000400
 00002d0100001c000000fb021000000000000000bc02000000000102022253797374656d00000000000000000000000000000000000000000000000000000400
 00002d010200040000002d01000004000000f00102001c000000fb021000000000000000bc02000000000102022253797374656d000000000000000000000000
 0000000000000000000000000000040000002d010200040000002d01000004000000f00102001c000000fb021000000000000000bc0200000000010202225379
@@ -899,10 +876,10 @@ OPACITY can be between 0 (fully transparent) and 1 (fully opaque).
 \par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16206614 {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid16206614\charrsid16206614 
 {\pict{\*\picprop\shplid1040{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}
 {\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex864\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0
-\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag1825388011\blipupi96{\*\blipuid 6ccd35eb141fa14316d808999688c0c8}010009000003a801000008001c00000000000400000003010800050000000b0200000000050000000c0203004102040000002e0118001c000000fb0210000000
+\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag2034584549\blipupi96{\*\blipuid 79454be58fe6e3733ce87988a7357b46}010009000003a801000008001c00000000000400000003010800050000000b0200000000050000000c0203004102040000002e0118001c000000fb0210000000
 00000000bc02000000000102022253797374656d0000000000000000000000000000000000000000000000000000040000002d0100001c000000fb0210000700
-00000000bc02000000000102022253797374656d00ed92020000f0bc7311f87f00008c4e0e27e500000020000000040000002d01010004000000f00100001c00
-0000fb021000070000000000bc02000000000102022253797374656d00ed9202000019607711f87f0000642400000a450a00885f98f2040000002d0100000400
+00000000bc02000000000102022253797374656d00374c020000f0bc1cfafe7f00008c508ed46400000020000000040000002d01010004000000f00100001c00
+0000fb021000070000000000bc02000000000102022253797374656d00374c020000196020fafe7f00009c3500000a9d0a0018ecf845040000002d0100000400
 00002d0100001c000000fb021000000000000000bc02000000000102022253797374656d00000000000000000000000000000000000000000000000000000400
 00002d010200040000002d01000004000000f00102001c000000fb021000000000000000bc02000000000102022253797374656d000000000000000000000000
 0000000000000000000000000000040000002d010200040000002d01000004000000f00102001c000000fb021000000000000000bc0200000000010202225379
@@ -929,14 +906,14 @@ ffff1c000000fb021000070000000000bc020000000001020222417269616c000000000000000000
 \rtlch\fcs1 \ab\af44\afs24 \ltrch\fcs0 \b\f44\fs24\insrsid3477822\charrsid3477822 \hich\af44\dbch\af31505\loch\f44 <abbr>}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid3477822\charrsid3477822 \~}{\field\fldedit{\*\fldinst {\rtlch\fcs1 \af44\afs24 
 \ltrch\fcs0 \f44\fs24\insrsid3477822\charrsid3477822 \hich\af44\dbch\af31505\loch\f44  HYPERLINK "https://developer.mozilla.org/en-US/docs/Web/HTML" }{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid7886665\charrsid3477822 {\*\datafield 
 00d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90b7c000000680074007400700073003a002f002f0064006500760065006c006f007000650072002e006d006f007a0069006c006c0061002e006f00720067002f0065006e002d00550053002f0064006f00630073002f00
-5700650062002f00480054004d004c000000795881f43b1d7f48af2c825dc485276300000000a5ab0003eb41}}}{\fldrslt {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \cs18\f44\fs24\ul\cf19\insrsid3477822\charrsid3477822 \hich\af44\dbch\af31505\loch\f44 HTML}}}\sectd \ltrsect
+5700650062002f00480054004d004c000000795881f43b1d7f48af2c825dc485276300000000a5ab0003eb}}}{\fldrslt {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \cs18\f44\fs24\ul\cf19\insrsid3477822\charrsid3477822 \hich\af44\dbch\af31505\loch\f44 HTML}}}\sectd \ltrsect
 \linex0\sectdefaultcl\sftnbj {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid3477822\charrsid3477822 \~\hich\af44\dbch\af31505\loch\f44 element represents an abbreviation or acronym.
-\par \hich\af44\dbch\af31505\loch\f44 When including an abbreviation or ac\hich\af44\dbch\af31505\loch\f44 ronym, provide a full expansion of the term in plain text on first use, along with the\~<abbr>\~
+\par \hich\af44\dbch\af31505\loch\f44 When including an abbreviation or acronym, provide a full expansion of the term in plain text on first use, along with the\~<abbr>\~\hich\af44\dbch\af31505\loch\f44 
 to mark up the abbreviation. This informs the user what the abbreviation or acronym means.
 \par \hich\af44\dbch\af31505\loch\f44 The optional\~}{\field\fldedit{\*\fldinst {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid3477822\charrsid3477822 \hich\af44\dbch\af31505\loch\f44  \hich\af44\dbch\af31505\loch\f44 
 HYPERLINK "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Global_attributes/title" }{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid7886665\charrsid3477822 {\*\datafield 
 00d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90bc0000000680074007400700073003a002f002f0064006500760065006c006f007000650072002e006d006f007a0069006c006c0061002e006f00720067002f0065006e002d00550053002f0064006f00630073002f00
-5700650062002f00480054004d004c002f005200650066006500720065006e00630065002f0047006c006f00620061006c005f0061007400740072006900620075007400650073002f007400690074006c0065000000795881f43b1d7f48af2c825dc485276300000000a5ab00030053}}}{\fldrslt {\rtlch\fcs1 
+5700650062002f00480054004d004c002f005200650066006500720065006e00630065002f0047006c006f00620061006c005f0061007400740072006900620075007400650073002f007400690074006c0065000000795881f43b1d7f48af2c825dc485276300000000a5ab000300}}}{\fldrslt {\rtlch\fcs1 
 \af44\afs24 \ltrch\fcs0 \cs18\f44\fs24\ul\cf19\insrsid3477822\charrsid3477822 \hich\af44\dbch\af31505\loch\f44 title}}}\sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid3477822\charrsid3477822 \~
 \hich\af44\dbch\af31505\loch\f44 
 attribute can provide an expansion for the abbreviation or acronym when a full expansion is not present. This provides a hint to user agents on how to announce/display the content while informing all users what the abbreviation means. If present,\~title\~
@@ -950,13 +927,13 @@ The <marquee> HTML element is used to create }{\rtlch\fcs1 \ab\af44\afs24 \ltrch
 \par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af44 \ltrch\fcs0 \f3\fs20\insrsid13780585\charrsid13780585 \loch\af3\dbch\af31505\hich\f3 \'b7\tab}\hich\af44\dbch\af31505\loch\f44 You can control the }{\rtlch\fcs1 \ab\af44\afs24 \ltrch\fcs0 
 \b\f44\fs24\insrsid13780585\charrsid13780585 \hich\af44\dbch\af31505\loch\f44 direction}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid13780585\charrsid13780585 \hich\af44\dbch\af31505\loch\f44 , }{\rtlch\fcs1 \ab\af44\afs24 \ltrch\fcs0 
 \b\f44\fs24\insrsid13780585\charrsid13780585 \hich\af44\dbch\af31505\loch\f44 speed}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid13780585\charrsid13780585 \hich\af44\dbch\af31505\loch\f44 , and }{\rtlch\fcs1 \ab\af44\afs24 \ltrch\fcs0 
-\b\f44\fs24\insrsid13780585\charrsid13780585 \hich\af44\dbch\af31505\loch\f44 b\hich\af44\dbch\af31505\loch\f44 ehavior}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid13780585\charrsid13780585 \hich\af44\dbch\af31505\loch\f44 
+\b\f44\fs24\insrsid13780585\charrsid13780585 \hich\af44\dbch\af31505\loch\f44 be\hich\af44\dbch\af31505\loch\f44 havior}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid13780585\charrsid13780585 \hich\af44\dbch\af31505\loch\f44 
  (e.g., scroll, slide, alternate) of the scrolling content with its attributes.
 \par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af42 \ltrch\fcs0 \f3\fs20\insrsid13780585\charrsid13780585 \loch\af3\dbch\af31505\hich\f3 \'b7\tab}}{\rtlch\fcs1 \af42\afs24 \ltrch\fcs0 \f42\fs24\insrsid13780585\charrsid13780585 \loch\af42\dbch\af31505\hich\f42 
 \u9888\'3f}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid13780585\charrsid13780585 \loch\af44\dbch\af31505\hich\f44 \u-497\'3f}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid13780585\charrsid13780585 \hich\af44\dbch\af31505\loch\f44  }{
 \rtlch\fcs1 \ab\af44\afs24 \ltrch\fcs0 \b\f44\fs24\insrsid13780585\charrsid13780585 \hich\af44\dbch\af31505\loch\f44 Important}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid13780585\charrsid13780585 \hich\af44\dbch\af31505\loch\f44 
 : The <marquee> tag is }{\rtlch\fcs1 \ab\af44\afs24 \ltrch\fcs0 \b\f44\fs24\insrsid13780585\charrsid13780585 \hich\af44\dbch\af31505\loch\f44 obsolete}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid13780585\charrsid13780585 
-\hich\af44\dbch\af31505\loch\f44  in HTML5 and is not recommended for modern websites. Instead, CSS animations or JavaScript should be used for scrolling eff\hich\af44\dbch\af31505\loch\f44 ects.
+\hich\af44\dbch\af31505\loch\f44  in HTML5 and is not recommended for modern websites. Instead, CSS animations or JavaScript should be used for scrolling effe\hich\af44\dbch\af31505\loch\f44 cts.
 \par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid13780585 {\rtlch\fcs1 \af42\afs24 \ltrch\fcs0 \f42\fs24\insrsid13780585\charrsid13780585 \loch\af42\dbch\af31505\hich\f42 
 \u9989\'3f}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid13780585\charrsid13780585 \hich\af44\dbch\af31505\loch\f44  Example:
 \par \hich\af44\dbch\af31505\loch\f44 <marquee direction="left" scrollamount="5">
@@ -967,12 +944,12 @@ The <marquee> HTML element is used to create }{\rtlch\fcs1 \ab\af44\afs24 \ltrch
 \par }{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid7886665\charrsid7886665 \hich\af44\dbch\af31505\loch\f44 The\~<video>\~}{\field\fldedit{\*\fldinst {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid7886665\charrsid7886665 
 \hich\af44\dbch\af31505\loch\f44  \hich\af44\dbch\af31505\loch\f44 HYPERLINK "https://developer.mozilla.org/en-US/docs/Web/HTML" }{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid15563747\charrsid7886665 {\*\datafield 
 00d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90b7c000000680074007400700073003a002f002f0064006500760065006c006f007000650072002e006d006f007a0069006c006c0061002e006f00720067002f0065006e002d00550053002f0064006f00630073002f00
-5700650062002f00480054004d004c000000795881f43b1d7f48af2c825dc485276300000000a5ab000300}}}{\fldrslt {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \cs18\f44\fs24\ul\cf19\insrsid7886665\charrsid7886665 \hich\af44\dbch\af31505\loch\f44 HTML}}}\sectd \ltrsect
-\linex0\sectdefaultcl\sftnbj {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid7886665\charrsid7886665 \~\hich\af44\dbch\af31505\loch\f44 element embeds a media player which supports video playback into t\hich\af44\dbch\af31505\loch\f44 
-he document. You can use\~<video>\~for audio content as well, but the\~}{\field\fldedit{\*\fldinst {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid7886665\charrsid7886665 \hich\af44\dbch\af31505\loch\f44 
- HYPERLINK "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/audio" }{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid15563747\charrsid7886665 {\*\datafield 
+5700650062002f00480054004d004c000000795881f43b1d7f48af2c825dc485276300000000a5ab0003}}}{\fldrslt {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \cs18\f44\fs24\ul\cf19\insrsid7886665\charrsid7886665 \hich\af44\dbch\af31505\loch\f44 HTML}}}\sectd \ltrsect
+\linex0\sectdefaultcl\sftnbj {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid7886665\charrsid7886665 \~\hich\af44\dbch\af31505\loch\f44 element embeds a media player which supports video playback into the document. You can use\~<video>\~
+for audio content as well, but the\~}{\field\fldedit{\*\fldinst {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid7886665\charrsid7886665 \hich\af44\dbch\af31505\loch\f44  HYPERLINK "https://developer.mozilla.org/en-US/docs
+\hich\af44\dbch\af31505\loch\f44 /Web/HTML/Reference/Elements/audio" }{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid15563747\charrsid7886665 {\*\datafield 
 00d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90bae000000680074007400700073003a002f002f0064006500760065006c006f007000650072002e006d006f007a0069006c006c0061002e006f00720067002f0065006e002d00550053002f0064006f00630073002f00
-5700650062002f00480054004d004c002f005200650066006500720065006e00630065002f0045006c0065006d0065006e00740073002f0061007500640069006f000000795881f43b1d7f48af2c825dc485276300000000a5ab000300}}}{\fldrslt {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 
+5700650062002f00480054004d004c002f005200650066006500720065006e00630065002f0045006c0065006d0065006e00740073002f0061007500640069006f000000795881f43b1d7f48af2c825dc485276300000000a5ab0003}}}{\fldrslt {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 
 \cs18\f44\fs24\ul\cf19\insrsid7886665\charrsid7886665 \hich\af44\dbch\af31505\loch\f44 <audio>}}}\sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid7886665\charrsid7886665 \~\hich\af44\dbch\af31505\loch\f44 
 element may provide a more appropriate user experience.
 \par }{\rtlch\fcs1 \ab\af44\afs24 \ltrch\fcs0 \b\f44\fs24\insrsid7886665\charrsid7886665 \hich\af44\dbch\af31505\loch\f44 Common Attributes / Properties:}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid7886665\charrsid7886665 
@@ -982,7 +959,7 @@ element may provide a more appropriate user experience.
 \f44\fs24\insrsid7886665\charrsid7886665 \hich\af44\dbch\af31505\loch\f44  path/URL of the video file (alternative is using nested <source> elements).
 \par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \ab\af44 \ltrch\fcs0 \f3\fs20\insrsid7886665\charrsid7886665 \loch\af3\dbch\af31505\hich\f3 \'b7\tab}}{\rtlch\fcs1 \ab\af44\afs24 \ltrch\fcs0 \b\f44\fs24\insrsid7886665\charrsid7886665 
 \hich\af44\dbch\af31505\loch\f44 controls}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid7886665\charrsid7886665 \hich\af44\dbch\af31505\loch\f44  }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid7886665\charrsid7886665 
-\loch\af0\dbch\af31505\hich\f0 \u8594\'3f}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid7886665\charrsid7886665 \hich\af44\dbch\af31505\loch\f44  adds default play/pause, volume, and fullscreen controls.
+\loch\af0\dbch\af31505\hich\f0 \u8594\'3f}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid7886665\charrsid7886665 \hich\af44\dbch\af31505\loch\f44  adds default play/pause,\hich\af44\dbch\af31505\loch\f44  volume, and fullscreen controls.
 \par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \ab\af44 \ltrch\fcs0 \f3\fs20\insrsid7886665\charrsid7886665 \loch\af3\dbch\af31505\hich\f3 \'b7\tab}}{\rtlch\fcs1 \ab\af44\afs24 \ltrch\fcs0 \b\f44\fs24\insrsid7886665\charrsid7886665 
 \hich\af44\dbch\af31505\loch\f44 autoplay}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid7886665\charrsid7886665 \hich\af44\dbch\af31505\loch\f44  }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid7886665\charrsid7886665 
 \loch\af0\dbch\af31505\hich\f0 \u8594\'3f}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid7886665\charrsid7886665 \hich\af44\dbch\af31505\loch\f44  starts playing the video automatically (may be blocked by browsers until muted).
@@ -991,7 +968,7 @@ element may provide a more appropriate user experience.
 \loch\af0\dbch\af31505\hich\f0 \u8594\'3f}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid7886665\charrsid7886665 \hich\af44\dbch\af31505\loch\f44  makes the video restart automatically after finishing.
 \par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \ab\af44 \ltrch\fcs0 \f3\fs20\insrsid7886665\charrsid7886665 \loch\af3\dbch\af31505\hich\f3 \'b7\tab}}{\rtlch\fcs1 \ab\af44\afs24 \ltrch\fcs0 \b\f44\fs24\insrsid7886665\charrsid7886665 
 \hich\af44\dbch\af31505\loch\f44 muted}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid7886665\charrsid7886665 \hich\af44\dbch\af31505\loch\f44  }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid7886665\charrsid7886665 
-\loch\af0\dbch\af31505\hich\f0 \u8594\'3f}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid7886665\charrsid7886665 \hich\af44\dbch\af31505\loch\f44  starts the video with audio m\hich\af44\dbch\af31505\loch\f44 uted.
+\loch\af0\dbch\af31505\hich\f0 \u8594\'3f}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid7886665\charrsid7886665 \hich\af44\dbch\af31505\loch\f44  starts the video with audio muted.
 \par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \ab\af44 \ltrch\fcs0 \f3\fs20\insrsid7886665\charrsid7886665 \loch\af3\dbch\af31505\hich\f3 \'b7\tab}}{\rtlch\fcs1 \ab\af44\afs24 \ltrch\fcs0 \b\f44\fs24\insrsid7886665\charrsid7886665 
 \hich\af44\dbch\af31505\loch\f44 poster}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid7886665\charrsid7886665 \hich\af44\dbch\af31505\loch\f44  }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid7886665\charrsid7886665 
 \loch\af0\dbch\af31505\hich\f0 \u8594\'3f}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid7886665\charrsid7886665 \hich\af44\dbch\af31505\loch\f44  specifies an image to show before the video starts (like a thumbnail).
@@ -1003,7 +980,7 @@ element may provide a more appropriate user experience.
 \loch\af0\dbch\af31505\hich\f0 \u8594\'3f}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid7886665\charrsid7886665 \hich\af44\dbch\af31505\loch\f44  hints how the browser should load the video:
 \par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af44 \ltrch\fcs0 \f2\fs20\insrsid7886665\charrsid7886665 \hich\af2\dbch\af31505\loch\f2 o\tab}}\pard \ltrpar\ql \fi-360\li1440\ri0\sa160\sl259\slmult1\widctlpar
 \jclisttab\tx1440\wrapdefault\aspalpha\aspnum\faauto\ls16\ilvl1\adjustright\rin0\lin1440\itap0\pararsid7886665 {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid7886665\charrsid7886665 \hich\af44\dbch\af31505\loch\f44 auto = load entire video,
-\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af44 \ltrch\fcs0 \f2\fs20\insrsid7886665\charrsid7886665 \hich\af2\dbch\af31505\loch\f2 o\tab}\hich\af44\dbch\af31505\loch\f44 metadata = load only \hich\af44\dbch\af31505\loch\f44 video metadata (size, duration),
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af44 \ltrch\fcs0 \f2\fs20\insrsid7886665\charrsid7886665 \hich\af2\dbch\af31505\loch\f2 o\tab}\hich\af44\dbch\af31505\loch\f44 metadata = load only video metadata (\hich\af44\dbch\af31505\loch\f44 size, duration),
 
 \par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af44 \ltrch\fcs0 \f2\fs20\insrsid7886665\charrsid7886665 \hich\af2\dbch\af31505\loch\f2 o\tab}\hich\af44\dbch\af31505\loch\f44 none = don\hich\f44 \rquote \loch\f44 t preload until user plays it.
 \par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid7886665 {\rtlch\fcs1 \ab\af44\afs24 \ltrch\fcs0 \b\f44\fs24\insrsid7886665\charrsid7886665 \hich\af44\dbch\af31505\loch\f44 
@@ -1014,82 +991,57 @@ Example:}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid7886665\charrsid7
 \par \hich\af44\dbch\af31505\loch\f44   Your browser does not support the video tag.
 \par \hich\af44\dbch\af31505\loch\f44 </video>}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid7886665 
 \par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid15563747 {\rtlch\fcs1 \ab\af44\afs24 \ltrch\fcs0 \b\f44\fs24\insrsid15563747\charrsid15563747 \hich\af44\dbch\af31505\loch\f44 
-border-collapse (CSS property)
-\par }{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid15563747\charrsid15563747 \hich\af44\dbch\af31505\loch\f44 Used with <table> elements. Controls whether table cell borders are }{\rtlch\fcs1 \ab\af44\afs24 \ltrch\fcs0 
-\b\f44\fs24\insrsid15563747\charrsid15563747 \hich\af44\dbch\af31505\loch\f44 separated}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid15563747\charrsid15563747 \hich\af44\dbch\af31505\loch\f44  or }{\rtlch\fcs1 \ab\af44\afs24 \ltrch\fcs0 
-\b\f44\fs24\insrsid15563747\charrsid15563747 \hich\af44\dbch\af31505\loch\f44 merged into a single border}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid15563747\charrsid15563747 .
+border-collapse\hich\af44\dbch\af31505\loch\f44  (CSS property)
+\par }{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid15563747\charrsid15563747 \hich\af44\dbch\af31505\loch\f44 Used with \hich\af44\dbch\af31505\loch\f44 <table>\hich\af44\dbch\af31505\loch\f44  elements. Controls whether table cell borders are }{
+\rtlch\fcs1 \ab\af44\afs24 \ltrch\fcs0 \b\f44\fs24\insrsid15563747\charrsid15563747 \hich\af44\dbch\af31505\loch\f44 separated}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid15563747\charrsid15563747 \hich\af44\dbch\af31505\loch\f44  or }{
+\rtlch\fcs1 \ab\af44\afs24 \ltrch\fcs0 \b\f44\fs24\insrsid15563747\charrsid15563747 \hich\af44\dbch\af31505\loch\f44 merged into a single border}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid15563747\charrsid15563747 .
 \par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \ab\af44 \ltrch\fcs0 \f3\fs20\insrsid15563747\charrsid15563747 \loch\af3\dbch\af31505\hich\f3 \'b7\tab}}\pard \ltrpar\ql \fi-360\li720\ri0\sa160\sl259\slmult1\widctlpar
 \jclisttab\tx720\wrapdefault\aspalpha\aspnum\faauto\ls17\adjustright\rin0\lin720\itap0\pararsid15563747 {\rtlch\fcs1 \ab\af44\afs24 \ltrch\fcs0 \b\f44\fs24\insrsid15563747\charrsid15563747 \hich\af44\dbch\af31505\loch\f44 Values}{\rtlch\fcs1 \af44\afs24 
 \ltrch\fcs0 \f44\fs24\insrsid15563747\charrsid15563747 \hich\af44\dbch\af31505\loch\f44 :
 \par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af44 \ltrch\fcs0 \f2\fs20\insrsid15563747\charrsid15563747 \hich\af2\dbch\af31505\loch\f2 o\tab}}\pard \ltrpar\ql \fi-360\li1440\ri0\sa160\sl259\slmult1\widctlpar
-\jclisttab\tx1440\wrapdefault\aspalpha\aspnum\faauto\ls17\ilvl1\adjustright\rin0\lin1440\itap0\pararsid15563747 {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid15563747\charrsid15563747 \hich\af44\dbch\af31505\loch\f44 separate (default) }{
-\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid15563747\charrsid15563747 \loch\af0\dbch\af31505\hich\f0 \u8594\'3f}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid15563747\charrsid15563747 \hich\af44\dbch\af31505\loch\f44 
- Each cell has its own border. There will be spacing between cells if border-spacing is applied.
-\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af44 \ltrch\fcs0 \f2\fs20\insrsid15563747\charrsid15563747 \hich\af2\dbch\af31505\loch\f2 o\tab}\hich\af44\dbch\af31505\loch\f44 collapse }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 
+\jclisttab\tx1440\wrapdefault\aspalpha\aspnum\faauto\ls17\ilvl1\adjustright\rin0\lin1440\itap0\pararsid15563747 {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid15563747\charrsid15563747 \hich\af44\dbch\af31505\loch\f44 separate
+\hich\af44\dbch\af31505\loch\f44  (default) }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid15563747\charrsid15563747 \loch\af0\dbch\af31505\hich\f0 \u8594\'3f}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid15563747\charrsid15563747 
+\hich\af44\dbch\af31505\loch\f44  Each \hich\af44\dbch\af31505\loch\f44 cell has its own border. There will be spacing between cells if \hich\af44\dbch\af31505\loch\f44 border-spacing\hich\af44\dbch\af31505\loch\f44  is applied.
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af44 \ltrch\fcs0 \f2\fs20\insrsid15563747\charrsid15563747 \hich\af2\dbch\af31505\loch\f2 o\tab}\hich\af44\dbch\af31505\loch\f44 collapse\hich\af44\dbch\af31505\loch\f44  }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 
 \f0\fs24\insrsid15563747\charrsid15563747 \loch\af0\dbch\af31505\hich\f0 \u8594\'3f}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid15563747\charrsid15563747 \hich\af44\dbch\af31505\loch\f44 
- Adjacent cell borders collapse into a single border (looks cleaner, like Excel tables\hich\af44\dbch\af31505\loch\f44 ).
+ Adjacent cell borders collapse into a single border (looks cleaner, like Excel tables).
 \par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid15563747 {\rtlch\fcs1 \af42\afs24 \ltrch\fcs0 \f42\fs24\insrsid15563747\charrsid15563747 \loch\af42\dbch\af31505\hich\f42 
 \u10004\'3f}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid15563747\charrsid15563747 \loch\af44\dbch\af31505\hich\f44 \u-497\'3f}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid15563747\charrsid15563747 \hich\af44\dbch\af31505\loch\f44 
  Example:
-\par \hich\af44\dbch\af31505\loch\f44 table \{
-\par \hich\af44\dbch\af31505\loch\f44   border-collapse: collapse;
+\par \hich\af44\dbch\af31505\loch\f44 table\hich\af44\dbch\af31505\loch\f44  \{
+\par \hich\af44\dbch\af31505\loch\f44   \hich\af44\dbch\af31505\loch\f44 border-collapse\hich\af44\dbch\af31505\loch\f44 : collapse;
 \par \}
-\par }{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid15563747\charrsid15563747 {\pict{\*\picprop\shplid1041{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}
-{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
-\picscalex936\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag480615314\blipupi96{\*\blipuid 1ca59b925485566ea0c6b9cb6889626b}
-010009000003a801000008001c00000000000400000003010800050000000b0200000000050000000c0203007102040000002e0118001c000000fb0210000000
-00000000bc02000000000102022253797374656d0000000000000000000000000000000000000000000000000000040000002d0100001c000000fb0210000700
-00000000bc02000000000102022253797374656d00f192020000f0bc7311f87f00008c4e0e27e500000020000000040000002d01010004000000f00100001c00
-0000fb021000070000000000bc02000000000102022253797374656d00f19202000019607711f87f0000642400000a300a00885f98f2040000002d0100000400
-00002d0100001c000000fb021000000000000000bc02000000000102022253797374656d00000000000000000000000000000000000000000000000000000400
-00002d010200040000002d01000004000000f00102001c000000fb021000000000000000bc02000000000102022253797374656d000000000000000000000000
-0000000000000000000000000000040000002d010200040000002d01000004000000f00102001c000000fb021000000000000000bc0200000000010202225379
-7374656d0000000000000000000000000000000000000000000000000000040000002d010200040000002d01000004000000f001020004000000020101001c00
-0000fb02f1ff0000000000009001000000000440002243616c6962726900000000000000000000000000000000000000000000000000040000002d0102000400
-00002d010200040000002d010200050000000902000000020d000000320a0e000000010004000000000070020200200009000500000009020000000203000000
-1e0007000000fc020000a0a0a0000000040000002d01030008000000fa02050000000000ffffff00040000002d0104000e00000024030500ffffffffffff0200
-700202007002ffffffffffff08000000fa0200000000000000000000040000002d01050007000000fc020000ffffff000000040000002d010600040000002701
-ffff1c000000fb021000070000000000bc020000000001020222417269616c000000000000000000000000000000000000000000000000000000040000002d010700040000002d010700030000000000}}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid15563747\charrsid15563747 
+\par }{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid15563747\charrsid15563747 {\pict{\*\picprop\shplid1053{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex936\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0
+\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8}}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid15563747\charrsid15563747 
 \par }\sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4
 \pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}
 {\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar\ql \li0\ri0\sa160\sl259\slmult1
 \widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid15563747 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \fs22\lang1033\langfe1033\loch\af31506\hich\af31506\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 
-\ab\af44\afs24 \ltrch\fcs0 \b\f44\fs24\insrsid15563747\charrsid15563747 \hich\af44\dbch\af31505\loch\f44 table-layout (CSS property)
+\ab\af44\afs24 \ltrch\fcs0 \b\f44\fs24\insrsid15563747\charrsid15563747 \hich\af44\dbch\af31505\loch\f44 table-layout\hich\af44\dbch\af31505\loch\f44  (CSS property)
 \par }{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid15563747\charrsid15563747 \hich\af44\dbch\af31505\loch\f44 Defines how the browser decides the }{\rtlch\fcs1 \ab\af44\afs24 \ltrch\fcs0 \b\f44\fs24\insrsid15563747\charrsid15563747 
 \hich\af44\dbch\af31505\loch\f44 column widths}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid15563747\charrsid15563747 \hich\af44\dbch\af31505\loch\f44  of a table.
 \par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \ab\af44 \ltrch\fcs0 \f3\fs20\insrsid15563747\charrsid15563747 \loch\af3\dbch\af31505\hich\f3 \'b7\tab}}\pard \ltrpar\ql \fi-360\li720\ri0\sa160\sl259\slmult1\widctlpar
 \jclisttab\tx720\wrapdefault\aspalpha\aspnum\faauto\ls18\adjustright\rin0\lin720\itap0\pararsid15563747 {\rtlch\fcs1 \ab\af44\afs24 \ltrch\fcs0 \b\f44\fs24\insrsid15563747\charrsid15563747 \hich\af44\dbch\af31505\loch\f44 Values}{\rtlch\fcs1 \af44\afs24 
 \ltrch\fcs0 \f44\fs24\insrsid15563747\charrsid15563747 \hich\af44\dbch\af31505\loch\f44 :
 \par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af44 \ltrch\fcs0 \f2\fs20\insrsid15563747\charrsid15563747 \hich\af2\dbch\af31505\loch\f2 o\tab}}\pard \ltrpar\ql \fi-360\li1440\ri0\sa160\sl259\slmult1\widctlpar
-\jclisttab\tx1440\wrapdefault\aspalpha\aspnum\faauto\ls18\ilvl1\adjustright\rin0\lin1440\itap0\pararsid15563747 {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid15563747\charrsid15563747 \hich\af44\dbch\af31505\loch\f44 auto (default) }{\rtlch\fcs1 
-\af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid15563747\charrsid15563747 \loch\af0\dbch\af31505\hich\f0 \u8594\'3f}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid15563747\charrsid15563747 \hich\af44\dbch\af31505\loch\f44  Column width is based on content.
-\hich\af44\dbch\af31505\loch\f44  Browser looks at the widest cell to set column width. Can cause uneven/slow rendering if content is large.
-\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af44 \ltrch\fcs0 \f2\fs20\insrsid15563747\charrsid15563747 \hich\af2\dbch\af31505\loch\f2 o\tab}\hich\af44\dbch\af31505\loch\f44 fixed }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 
-\f0\fs24\insrsid15563747\charrsid15563747 \loch\af0\dbch\af31505\hich\f0 \u8594\'3f}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid15563747\charrsid15563747 \hich\af44\dbch\af31505\loch\f44  Column width is determined by the table\hich\f44 \rquote 
-\loch\f44 s width and col/td widths, not by content. Makes tables load/render faster and look uniform.
+\jclisttab\tx1440\wrapdefault\aspalpha\aspnum\faauto\ls18\ilvl1\adjustright\rin0\lin1440\itap0\pararsid15563747 {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid15563747\charrsid15563747 \hich\af44\dbch\af31505\loch\f44 auto
+\hich\af44\dbch\af31505\loch\f44  (default) }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid15563747\charrsid15563747 \loch\af0\dbch\af31505\hich\f0 \u8594\'3f}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid15563747\charrsid15563747 
+\hich\af44\dbch\af31505\loch\f44  Column width is based on content. Browser looks at the widest cell to set column width. Can cause uneven/slow rendering\hich\af44\dbch\af31505\loch\f44  if content is large.
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af44 \ltrch\fcs0 \f2\fs20\insrsid15563747\charrsid15563747 \hich\af2\dbch\af31505\loch\f2 o\tab}\hich\af44\dbch\af31505\loch\f44 fixed\hich\af44\dbch\af31505\loch\f44  }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 
+\f0\fs24\insrsid15563747\charrsid15563747 \loch\af0\dbch\af31505\hich\f0 \u8594\'3f}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid15563747\charrsid15563747 \hich\af44\dbch\af31505\loch\f44  Column width is determined by the table
+\loch\af44\dbch\af31505\hich\f44 \rquote \hich\af44\dbch\af31505\loch\f44 s width and \hich\af44\dbch\af31505\loch\f44 col\hich\af44\dbch\af31505\loch\f44 /\hich\af44\dbch\af31505\loch\f44 td\hich\af44\dbch\af31505\loch\f44 
+ widths, not by content. Makes tables load/render faster and look uniform.
 \par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid15563747 {\rtlch\fcs1 \af42\afs24 \ltrch\fcs0 \f42\fs24\insrsid15563747\charrsid15563747 \loch\af42\dbch\af31505\hich\f42 
-\u10004\'3f}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid15563747\charrsid15563747 \loch\af44\dbch\af31505\hich\f44 \u-497\'3f}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid15563747\charrsid15563747 \hich\af44\dbch\af31505\loch\f44  Ex
-\hich\af44\dbch\af31505\loch\f44 ample:
-\par \hich\af44\dbch\af31505\loch\f44 table \{
-\par \hich\af44\dbch\af31505\loch\f44   table-layout: fixed;
-\par \hich\af44\dbch\af31505\loch\f44   width: 100%;
+\u10004\'3f}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid15563747\charrsid15563747 \loch\af44\dbch\af31505\hich\f44 \u-497\'3f}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid15563747\charrsid15563747 \hich\af44\dbch\af31505\loch\f44 
+ Example:
+\par \hich\af44\dbch\af31505\loch\f44 table\hich\af44\dbch\af31505\loch\f44  \{
+\par \hich\af44\dbch\af31505\loch\f44   \hich\af44\dbch\af31505\loch\f44 table-layout\hich\af44\dbch\af31505\loch\f44 : fixed;
+\par \hich\af44\dbch\af31505\loch\f44   \hich\af44\dbch\af31505\loch\f44 width\hich\af44\dbch\af31505\loch\f44 : \hich\af44\dbch\af31505\loch\f44 100%\hich\af44\dbch\af31505\loch\f44 ;
 \par \}
-\par }{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid15563747\charrsid15563747 {\pict{\*\picprop\shplid1042{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}
-{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
-\picscalex936\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8\bliptag599829915\blipupi96{\*\blipuid 23c0ad9bf61c74b3f2421d1e03615c28}
-010009000003a801000008001c00000000000400000003010800050000000b0200000000050000000c0203007102040000002e0118001c000000fb0210000000
-00000000bc02000000000102022253797374656d0000000000000000000000000000000000000000000000000000040000002d0100001c000000fb0210000700
-00000000bc02000000000102022253797374656d00ed92020000f0bc7311f87f00008c4e0e27e500000020000000040000002d01010004000000f00100001c00
-0000fb021000070000000000bc02000000000102022253797374656d00ed9202000019607711f87f0000642400000a1e0a00885f98f2040000002d0100000400
-00002d0100001c000000fb021000000000000000bc02000000000102022253797374656d00000000000000000000000000000000000000000000000000000400
-00002d010200040000002d01000004000000f00102001c000000fb021000000000000000bc02000000000102022253797374656d000000000000000000000000
-0000000000000000000000000000040000002d010200040000002d01000004000000f00102001c000000fb021000000000000000bc0200000000010202225379
-7374656d0000000000000000000000000000000000000000000000000000040000002d010200040000002d01000004000000f001020004000000020101001c00
-0000fb02f1ff0000000000009001000000000440002243616c6962726900000000000000000000000000000000000000000000000000040000002d0102000400
-00002d010200040000002d010200050000000902000000020d000000320a0e000000010004000000000070020200200009000500000009020000000203000000
-1e0007000000fc020000a0a0a0000000040000002d01030008000000fa02050000000000ffffff00040000002d0104000e00000024030500ffffffffffff0200
-700202007002ffffffffffff08000000fa0200000000000000000000040000002d01050007000000fc020000ffffff000000040000002d010600040000002701
-ffff1c000000fb021000070000000000bc020000000001020222417269616c000000000000000000000000000000000000000000000000000000040000002d010700040000002d010700030000000000}}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid15563747\charrsid15563747 
+\par }{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid15563747\charrsid15563747 {\pict{\*\picprop\shplid1054{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex936\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0
+\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8}}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid15563747\charrsid15563747 
 \par }\sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4
 \pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}
 {\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar\ql \li0\ri0\sa160\sl259\slmult1
@@ -1105,100 +1057,37 @@ ffff1c000000fb021000070000000000bc020000000001020222417269616c000000000000000000
 \loch\af0\dbch\af31505\hich\f0 \u8594\'3f}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid15563747\charrsid15563747 \hich\af44\dbch\af31505\loch\f44  Controls whether column size is auto (content-based) or fixed (layout-based).
 \par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid7886665 {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid15563747\charrsid7886665 
 \par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10031258 {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid5860502 \hich\af44\dbch\af31505\loch\f44  }{\rtlch\fcs1 
-\ab\af44\afs24 \ltrch\fcs0 \b\f44\fs24\insrsid10031258\charrsid10031258 \hich\af44\dbch\af31505\loch\f44 white-space (CSS property)
+\ab\af44\afs24 \ltrch\fcs0 \b\f44\fs24\insrsid10031258\charrsid10031258 \hich\af44\dbch\af31505\loch\f44 white-space\hich\af44\dbch\af31505\loch\f44  (CSS property)
 \par }{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid10031258\charrsid10031258 \hich\af44\dbch\af31505\loch\f44 Controls }{\rtlch\fcs1 \ab\af44\afs24 \ltrch\fcs0 \b\f44\fs24\insrsid10031258\charrsid10031258 \hich\af44\dbch\af31505\loch\f44 
 how whitespace inside an element is handled}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid10031258\charrsid10031258 \hich\af44\dbch\af31505\loch\f44  (spaces, tabs, and line breaks).
 \par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \ab\af44 \ltrch\fcs0 \f3\fs20\insrsid10031258\charrsid10031258 \loch\af3\dbch\af31505\hich\f3 \'b7\tab}}\pard \ltrpar\ql \fi-360\li720\ri0\sa160\sl259\slmult1\widctlpar
 \jclisttab\tx720\wrapdefault\aspalpha\aspnum\faauto\ls20\adjustright\rin0\lin720\itap0\pararsid10031258 {\rtlch\fcs1 \ab\af44\afs24 \ltrch\fcs0 \b\f44\fs24\insrsid10031258\charrsid10031258 \hich\af44\dbch\af31505\loch\f44 Common values}{\rtlch\fcs1 
 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid10031258\charrsid10031258 \hich\af44\dbch\af31505\loch\f44 :
 \par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af44 \ltrch\fcs0 \f2\fs20\insrsid10031258\charrsid10031258 \hich\af2\dbch\af31505\loch\f2 o\tab}}\pard \ltrpar\ql \fi-360\li1440\ri0\sa160\sl259\slmult1\widctlpar
-\jclisttab\tx1440\wrapdefault\aspalpha\aspnum\faauto\ls20\ilvl1\adjustright\rin0\lin1440\itap0\pararsid10031258 {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid10031258\charrsid10031258 \hich\af44\dbch\af31505\loch\f44 normal (default) }{
-\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid10031258\charrsid10031258 \loch\af0\dbch\af31505\hich\f0 \u8594\'3f}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid10031258\charrsid10031258 \hich\af44\dbch\af31505\loch\f44 
- Collapses extra spaces a\hich\af44\dbch\af31505\loch\f44 nd wraps text when needed.
-\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af44 \ltrch\fcs0 \f2\fs20\insrsid10031258\charrsid10031258 \hich\af2\dbch\af31505\loch\f2 o\tab}\hich\af44\dbch\af31505\loch\f44 nowrap }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 
+\jclisttab\tx1440\wrapdefault\aspalpha\aspnum\faauto\ls20\ilvl1\adjustright\rin0\lin1440\itap0\pararsid10031258 {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid10031258\charrsid10031258 \hich\af44\dbch\af31505\loch\f44 normal
+\hich\af44\dbch\af31505\loch\f44  (default) }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid10031258\charrsid10031258 \loch\af0\dbch\af31505\hich\f0 \u8594\'3f}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid10031258\charrsid10031258 
+\hich\af44\dbch\af31505\loch\f44  Collapses extra spaces and wraps text when needed.
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af44 \ltrch\fcs0 \f2\fs20\insrsid10031258\charrsid10031258 \hich\af2\dbch\af31505\loch\f2 o\tab}\hich\af44\dbch\af31505\loch\f44 nowrap\hich\af44\dbch\af31505\loch\f44  }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 
 \f0\fs24\insrsid10031258\charrsid10031258 \loch\af0\dbch\af31505\hich\f0 \u8594\'3f}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid10031258\charrsid10031258 \hich\af44\dbch\af31505\loch\f44  Collapses extra spaces }{\rtlch\fcs1 \ab\af44\afs24 
-\ltrch\fcs0 \b\f44\fs24\insrsid10031258\charrsid10031258 \hich\af44\dbch\af31505\loch\f44 but prevents wrapping}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid10031258\charrsid10031258 \hich\af44\dbch\af31505\loch\f44  (all text stays on one line).
-
-\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af44 \ltrch\fcs0 \f2\fs20\insrsid10031258\charrsid10031258 \hich\af2\dbch\af31505\loch\f2 o\tab}\hich\af44\dbch\af31505\loch\f44 pre }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid10031258\charrsid10031258 
-\loch\af0\dbch\af31505\hich\f0 \u8594\'3f}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid10031258\charrsid10031258 \hich\af44\dbch\af31505\loch\f44  Preserves spaces and line breaks (like <pre> tag).
-\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af44 \ltrch\fcs0 \f2\fs20\insrsid10031258\charrsid10031258 \hich\af2\dbch\af31505\loch\f2 o\tab}\hich\af44\dbch\af31505\loch\f44 pre-wrap }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 
+\ltrch\fcs0 \b\f44\fs24\insrsid10031258\charrsid10031258 \hich\af44\dbch\af31505\loch\f44 but prevents wrapping}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid10031258\charrsid10031258 \hich\af44\dbch\af31505\loch\f44  (all
+\hich\af44\dbch\af31505\loch\f44  text stays on one line).
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af44 \ltrch\fcs0 \f2\fs20\insrsid10031258\charrsid10031258 \hich\af2\dbch\af31505\loch\f2 o\tab}\hich\af44\dbch\af31505\loch\f44 pre\hich\af44\dbch\af31505\loch\f44  }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 
+\f0\fs24\insrsid10031258\charrsid10031258 \loch\af0\dbch\af31505\hich\f0 \u8594\'3f}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid10031258\charrsid10031258 \hich\af44\dbch\af31505\loch\f44  Preserves spaces and line breaks (like 
+\hich\af44\dbch\af31505\loch\f44 <pre>\hich\af44\dbch\af31505\loch\f44  tag).
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af44 \ltrch\fcs0 \f2\fs20\insrsid10031258\charrsid10031258 \hich\af2\dbch\af31505\loch\f2 o\tab}\hich\af44\dbch\af31505\loch\f44 pre-wrap\hich\af44\dbch\af31505\loch\f44  }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 
 \f0\fs24\insrsid10031258\charrsid10031258 \loch\af0\dbch\af31505\hich\f0 \u8594\'3f}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid10031258\charrsid10031258 \hich\af44\dbch\af31505\loch\f44  Preserves spaces and line breaks, }{\rtlch\fcs1 
 \ab\af44\afs24 \ltrch\fcs0 \b\f44\fs24\insrsid10031258\charrsid10031258 \hich\af44\dbch\af31505\loch\f44 but text still wraps}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid10031258\charrsid10031258 \hich\af44\dbch\af31505\loch\f44  when needed.
 
-\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af44 \ltrch\fcs0 \f2\fs20\insrsid10031258\charrsid10031258 \hich\af2\dbch\af31505\loch\f2 o\tab}\hich\af44\dbch\af31505\loch\f44 pre-line }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af44 \ltrch\fcs0 \f2\fs20\insrsid10031258\charrsid10031258 \hich\af2\dbch\af31505\loch\f2 o\tab}\hich\af44\dbch\af31505\loch\f44 pre-line\hich\af44\dbch\af31505\loch\f44  }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 
 \f0\fs24\insrsid10031258\charrsid10031258 \loch\af0\dbch\af31505\hich\f0 \u8594\'3f}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid10031258\charrsid10031258 \hich\af44\dbch\af31505\loch\f44  Collapses extra spaces but }{\rtlch\fcs1 \ab\af44\afs24 
 \ltrch\fcs0 \b\f44\fs24\insrsid10031258\charrsid10031258 \hich\af44\dbch\af31505\loch\f44 preserves line breaks}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid10031258\charrsid10031258 .
 \par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10031258 {\rtlch\fcs1 \af42\afs24 \ltrch\fcs0 \f42\fs24\insrsid10031258\charrsid10031258 \loch\af42\dbch\af31505\hich\f42 
 \u10004\'3f}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid10031258\charrsid10031258 \loch\af44\dbch\af31505\hich\f44 \u-497\'3f}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid10031258\charrsid10031258 \hich\af44\dbch\af31505\loch\f44 
  Example:
-\par \hich\af44\dbch\af31505\loch\f44 p \{
-\par \hich\af44\dbch\af31505\loch\f44   white-space: nowrap;
-\par \}}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid10031258 
-\par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11363712 {\rtlch\fcs1 \ab\af44\afs24 \ltrch\fcs0 \b\f44\fs24\insrsid11363712\charrsid11363712 \hich\af44\dbch\af31505\loch\f44 
-Text-transform}{\rtlch\fcs1 \ab\af44\afs24 \ltrch\fcs0 \b\f44\fs24\insrsid11363712 
-\par }{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid11363712\charrsid11363712 \hich\af44\dbch\af31505\loch\f44 The\~\hich\af44\dbch\af31505\loch\f44 text-trans\hich\af44\dbch\af31505\loch\f44 form\~}{\field\fldedit{\*\fldinst {\rtlch\fcs1 \af44\afs24 
-\ltrch\fcs0 \f44\fs24\insrsid11363712\charrsid11363712 \hich\af44\dbch\af31505\loch\f44  \hich\af44\dbch\af31505\loch\f44 HYPERLINK "https://developer.mozilla.org/en-US/docs/Web/CSS"\hich\af44\dbch\af31505\loch\f44  }}{\fldrslt {\rtlch\fcs1 \af44\afs24 
-\ltrch\fcs0 \cs18\f44\fs24\ul\cf19\insrsid11363712\charrsid11363712 \hich\af44\dbch\af31505\loch\f44 CSS}}}\sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid11363712\charrsid11363712 \~
-\hich\af44\dbch\af31505\loch\f44 property specifies how to capitalize an element's text. It can be used to make text appear in all-uppercase or all-lowercase, or with each word capitalized. It also can help improve \hich\af44\dbch\af31505\loch\f44 
-legibility for ruby.}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid11363712\charrsid11363712 
-\par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10310209 {\rtlch\fcs1 \ab\af44\afs24 \ltrch\fcs0 \b\f44\fs24\insrsid10310209\charrsid10310209 \hich\af44\dbch\af31505\loch\f44 
-<strong>: The Strong Importance element
-\par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid3477822 {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid10310209\charrsid10310209 \hich\af44\dbch\af31505\loch\f44 The\~}
-{\rtlch\fcs1 \ab\af44\afs24 \ltrch\fcs0 \b\f44\fs24\insrsid10310209\charrsid10310209 \hich\af44\dbch\af31505\loch\f44 <strong>}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid10310209\charrsid10310209 \~}{\field\fldedit{\*\fldinst {\rtlch\fcs1 
-\af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid10310209\charrsid10310209 \hich\af44\dbch\af31505\loch\f44  \hich\af44\dbch\af31505\loch\f44 HYPERLINK "https://developer.mozilla.org/en-US/docs/Web/HTML"\hich\af44\dbch\af31505\loch\f44  }}{\fldrslt {\rtlch\fcs1 
-\af44\afs24 \ltrch\fcs0 \cs18\f44\fs24\ul\cf19\insrsid10310209\charrsid10310209 \hich\af44\dbch\af31505\loch\f44 HTML}}}\sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid10310209\charrsid10310209 \~
-\hich\af44\dbch\af31505\loch\f44 element indicates that its contents have strong importance, seriousness, or urgency. Browsers typically render the contents in bold type.}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid10246410\charrsid3477822 
-
-\par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16343151 {\rtlch\fcs1 \ab\af44\afs24 \ltrch\fcs0 \b\f44\fs24\insrsid16343151\charrsid16343151 \hich\af44\dbch\af31505\loch\f44 
-over\hich\af44\dbch\af31505\loch\f44 flow-x\hich\af44\dbch\af31505\loch\f44  & \hich\af44\dbch\af31505\loch\f44 overflow-y\hich\af44\dbch\af31505\loch\f44  (CSS properties)
-\par }{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid16343151\charrsid16343151 \hich\af44\dbch\af31505\loch\f44 These properties control }{\rtlch\fcs1 \ab\af44\afs24 \ltrch\fcs0 \b\f44\fs24\insrsid16343151\charrsid16343151 
-\hich\af44\dbch\af31505\loch\f44 scrolling and clipping}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid16343151\charrsid16343151 \hich\af44\dbch\af31505\loch\f44  of content along the }{\rtlch\fcs1 \ab\af44\afs24 \ltrch\fcs0 
-\b\f44\fs24\insrsid16343151\charrsid16343151 \hich\af44\dbch\af31505\loch\f44 horizontal (x-axis)}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid16343151\charrsid16343151 \hich\af44\dbch\af31505\loch\f44  and }{\rtlch\fcs1 \ab\af44\afs24 
-\ltrch\fcs0 \b\f44\fs24\insrsid16343151\charrsid16343151 \hich\af44\dbch\af31505\loch\f44 vertical (y-axis)}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid16343151\charrsid16343151 \hich\af44\dbch\af31505\loch\f44  separately.
-\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \ab\af44 \ltrch\fcs0 \f3\fs20\insrsid16343151\charrsid16343151 \loch\af3\dbch\af31505\hich\f3 \'b7\tab}}\pard \ltrpar\ql \fi-360\li720\ri0\sa160\sl259\slmult1\widctlpar
-\jclisttab\tx720\wrapdefault\aspalpha\aspnum\faauto\ls22\adjustright\rin0\lin720\itap0\pararsid16343151 {\rtlch\fcs1 \ab\af44\afs24 \ltrch\fcs0 \b\f44\fs24\insrsid16343151\charrsid16343151 \hich\af44\dbch\af31505\loch\f44 Values}{\rtlch\fcs1 \af44\afs24 
-\ltrch\fcs0 \f44\fs24\insrsid16343151\charrsid16343151 \hich\af44\dbch\af31505\loch\f44  (for both):
-\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af44 \ltrch\fcs0 \f2\fs20\insrsid16343151\charrsid16343151 \hich\af2\dbch\af31505\loch\f2 o\tab}}\pard \ltrpar\ql \fi-360\li1440\ri0\sa160\sl259\slmult1\widctlpar
-\jclisttab\tx1440\wrapdefault\aspalpha\aspnum\faauto\ls22\ilvl1\adjustright\rin0\lin1440\itap0\pararsid16343151 {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid16343151\charrsid16343151 \hich\af44\dbch\af31505\loch\f44 visible
-\hich\af44\dbch\af31505\loch\f44  (default) }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid16343151\charrsid16343151 \loch\af0\dbch\af31505\hich\f0 \u8594\'3f}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid16343151\charrsid16343151 
-\hich\af44\dbch\af31505\loch\f44  Content is not clipped, can overflow outside the box.
-\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af44 \ltrch\fcs0 \f2\fs20\insrsid16343151\charrsid16343151 \hich\af2\dbch\af31505\loch\f2 o\tab}\hich\af44\dbch\af31505\loch\f44 hid\hich\af44\dbch\af31505\loch\f44 den\hich\af44\dbch\af31505\loch\f44  }{
-\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid16343151\charrsid16343151 \loch\af0\dbch\af31505\hich\f0 \u8594\'3f}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid16343151\charrsid16343151 \hich\af44\dbch\af31505\loch\f44 
- Extra content is clipped (cut off), no scrollbar.
-\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af44 \ltrch\fcs0 \f2\fs20\insrsid16343151\charrsid16343151 \hich\af2\dbch\af31505\loch\f2 o\tab}\hich\af44\dbch\af31505\loch\f44 scroll\hich\af44\dbch\af31505\loch\f44  }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 
-\f0\fs24\insrsid16343151\charrsid16343151 \loch\af0\dbch\af31505\hich\f0 \u8594\'3f}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid16343151\charrsid16343151 \hich\af44\dbch\af31505\loch\f44  Always shows a scrollbar (even if not needed).
-\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af44 \ltrch\fcs0 \f2\fs20\insrsid16343151\charrsid16343151 \hich\af2\dbch\af31505\loch\f2 o\tab}\hich\af44\dbch\af31505\loch\f44 auto\hich\af44\dbch\af31505\loch\f44  }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 
-\f0\fs24\insrsid16343151\charrsid16343151 \loch\af0\dbch\af31505\hich\f0 \u8594\'3f}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid16343151\charrsid16343151 \hich\af44\dbch\af31505\loch\f44  Shows a scrollbar only }{\rtlch\fcs1 \ab\af44\afs24 
-\ltrch\fcs0 \b\f44\fs24\insrsid16343151\charrsid16343151 \hich\af44\dbch\af31505\loch\f44 when needed}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid16343151\charrsid16343151 .
-\par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16343151 {\rtlch\fcs1 \af42\afs24 \ltrch\fcs0 \f42\fs24\insrsid16343151\charrsid16343151 \loch\af42\dbch\af31505\hich\f42 
-\u10004\'3f}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid16343151\charrsid16343151 \loch\af44\dbch\af31505\hich\f44 \u-497\'3f}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid16343151\charrsid16343151 \hich\af44\dbch\af31505\loch\f44 
- Example:
-\par \hich\af44\dbch\af31505\loch\f44 .box\hich\af44\dbch\af31505\loch\f44  \{
-\par \hich\af44\dbch\af31505\loch\f44   \hich\af44\dbch\af31505\loch\f44 width\hich\af44\dbch\af31505\loch\f44 : \hich\af44\dbch\af31505\loch\f44 200px\hich\af44\dbch\af31505\loch\f44 ;
-\par \hich\af44\dbch\af31505\loch\f44   \hich\af44\dbch\af31505\loch\f44 height\hich\af44\dbch\af31505\loch\f44 : \hich\af44\dbch\af31505\loch\f44 100px\hich\af44\dbch\af31505\loch\f44 ;
-\par \hich\af44\dbch\af31505\loch\f44   \hich\af44\dbch\af31505\loch\f44 overflow-x\hich\af44\dbch\af31505\loch\f44 : auto; \hich\af44\dbch\af31505\loch\f44 /* horizontal scrollbar if ne\hich\af44\dbch\af31505\loch\f44 eded */
-\par \hich\af44\dbch\af31505\loch\f44   \hich\af44\dbch\af31505\loch\f44 overflow-y\hich\af44\dbch\af31505\loch\f44 : hidden; \hich\af44\dbch\af31505\loch\f44 /* vertical overflow hidden */
+\par \hich\af44\dbch\af31505\loch\f44 p\hich\af44\dbch\af31505\loch\f44  \{
+\par \hich\af44\dbch\af31505\loch\f44   \hich\af44\dbch\af31505\loch\f44 white-space\hich\af44\dbch\af31505\loch\f44 : nowrap;
 \par \}
-\par }{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid16343151\charrsid16343151 {\pict{\*\picprop\shplid1043{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fillColor}{\sv 10526880}}{\sp{\sn fFilled}{\sv 1}}
-{\sp{\sn fLine}{\sv 0}}{\sp{\sn alignHR}{\sv 1}}{\sp{\sn dxHeightHR}{\sv 30}}{\sp{\sn fStandardHR}{\sv 1}}{\sp{\sn fHorizRule}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex936\picscaley6\piccropl0\piccropr0\piccropt0\piccropb0
-\picw1764\pich882\picwgoal1000\pichgoal500\wmetafile8}}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid16343151\charrsid16343151 
-\par }\sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4
-\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}
-{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar\ql \li0\ri0\sa160\sl259\slmult1
-\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16343151 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \fs22\lang1033\langfe1033\loch\af31506\hich\af31506\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 
-\af42\afs24 \ltrch\fcs0 \f42\fs24\insrsid16343151\charrsid16343151 \loch\af42\dbch\af31505\hich\f42 \u-10179\'3f\u-9012\'3f}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid16343151\charrsid16343151 \hich\af44\dbch\af31505\loch\f44  }{\rtlch\fcs1 
-\ab\af44\afs24 \ltrch\fcs0 \b\f44\fs24\insrsid16343151\charrsid16343151 \hich\af44\dbch\af31505\loch\f44 Summary for notes}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid16343151\charrsid16343151 \hich\af44\dbch\af31505\loch\f44 :
-\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \ab\af44 \ltrch\fcs0 \f3\fs20\insrsid16343151\charrsid16343151 \loch\af3\dbch\af31505\hich\f3 \'b7\tab}}\pard \ltrpar\ql \fi-360\li720\ri0\sa160\sl259\slmult1\widctlpar
-\jclisttab\tx720\wrapdefault\aspalpha\aspnum\faauto\ls23\adjustright\rin0\lin720\itap0\pararsid16343151 {\rtlch\fcs1 \ab\af44\afs24 \ltrch\fcs0 \b\f44\fs24\insrsid16343151\charrsid16343151 \hich\af44\dbch\af31505\loch\f44 overflow-x}{\rtlch\fcs1 
-\af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid16343151\charrsid16343151 \hich\af44\dbch\af31505\loch\f44  }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid16343151\charrsid16343151 \loch\af0\dbch\af31505\hich\f0 \u8594\'3f}{\rtlch\fcs1 \af44\afs24 
-\ltrch\fcs0 \f44\fs24\insrsid16343151\charrsid16343151 \hich\af44\dbch\af31505\loch\f44  Controls overflow }{\rtlch\fcs1 \ab\af44\afs24 \ltrch\fcs0 \b\f44\fs24\insrsid16343151\charrsid16343151 \hich\af44\dbch\af31505\loch\f44 horizontally}{\rtlch\fcs1 
-\af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid16343151\charrsid16343151 \hich\af44\dbch\af31505\loch\f44  (left-right).
-\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \ab\af44 \ltrch\fcs0 \f3\fs20\insrsid16343151\charrsid16343151 \loch\af3\dbch\af31505\hich\f3 \'b7\tab}}{\rtlch\fcs1 \ab\af44\afs24 \ltrch\fcs0 \b\f44\fs24\insrsid16343151\charrsid16343151 
-\hich\af44\dbch\af31505\loch\f44 overflow-y}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid16343151\charrsid16343151 \hich\af44\dbch\af31505\loch\f44  }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid16343151\charrsid16343151 
-\loch\af0\dbch\af31505\hich\f0 \u8594\'3f}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid16343151\charrsid16343151 \hich\af44\dbch\af31505\loch\f44  Controls overflow }{\rtlch\fcs1 \ab\af44\afs24 \ltrch\fcs0 
-\b\f44\fs24\insrsid16343151\charrsid16343151 \hich\af44\dbch\af31505\loch\f44 vertically}{\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid16343151\charrsid16343151 \hich\af44\dbch\af31505\loch\f44  (top-bottom).
-\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af44 \ltrch\fcs0 \f3\fs20\insrsid16343151\charrsid16343151 \loch\af3\dbch\af31505\hich\f3 \'b7\tab}\hich\af44\dbch\af31505\loch\f44 Common use: prevent layout breaking when content is larger than its container.
-
+\par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid3477822 {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid10246410\charrsid3477822 
 \par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4156150 {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid4156150\charrsid4156150 
 \par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24\insrsid4156150\charrsid6957143 
 \par }{\*\themedata 504b030414000600080000002100e9de0fbfff0000001c020000130000005b436f6e74656e745f54797065735d2e786d6cac91cb4ec3301045f748fc83e52d4a
@@ -1345,8 +1234,8 @@ fffffffffffffffffdfffffffeffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-ffffffffffffffffffffffffffffffff52006f006f007400200045006e00740072007900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000500ffffffffffffffffffffffff0c6ad98892f1d411a65f0040963251e5000000000000000000000000909b
-7744ce2fdc01feffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000
+ffffffffffffffffffffffffffffffff52006f006f007400200045006e00740072007900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000500ffffffffffffffffffffffff0c6ad98892f1d411a65f0040963251e5000000000000000000000000a00a
+6490192ddc01feffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000
 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000
 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff000000000000000000000000000000000000000000000000
 0000000000000000000000000000000000000000000000000105000000000000}}
